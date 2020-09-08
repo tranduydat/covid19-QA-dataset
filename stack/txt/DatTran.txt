@@ -1,5 +1,6 @@
 Hiện tỉnh thành nào có nhiều người mắc virus corona nhất?
 ```Xin hỏi thông tin về dịch bệnh nCoV
+
 Chào bạn, xin được giải đáp câu hỏi của bạn như sau: tính thời thời điểm 18h ngày 7/2, Vĩnh Phúc là địa phường có nhiều người nhiễm virus corona nhất với 7 trường hợp.
 ```
 
@@ -7,32 +8,17 @@ Chào bạn, xin được giải đáp câu hỏi của bạn như sau: tính th
 
 
 
-Xin hỏi thông tin về dịch bệnh nCoV
-```Cho em hỏi nếu không sốt, không tức ngực hay khó thở mà chỉ bị ho đờm thì có phải là biểu hiện của triệu chứng nhiễm coronavirus không?
-
-
-
-```Không có nguy cơ thì triệu chứng gì cũng không liên quan coronavirus, nên khám và điều trị như chưa biết gì về virus này.
-
-
-
 Cho em hỏi nếu không sốt, không tức ngực hay khó thở mà chỉ bị ho đờm thì có phải là biểu hiện của triệu chứng nhiễm coronavirus không?
 ```Có thông tin virus Corona chỉ sống được ở nhiệt độ dưới 25 độ C có đúng không? Miền nam hoàn toàn không có nguy cơ lây nhiễm?
+
 Không có nguy cơ thì triệu chứng gì cũng không liên quan coronavirus, nên khám và điều trị như chưa biết gì về virus này.
 ```Điều này thì những nghiên cứu hiện nay chưa rõ ràng, nhưng nhiệt độ lạnh thì virus dễ phát triển và lây lan hơn, không phải là miền Nam không có nguy cơ, vì virus có thể ở trong phòng, ngoài trời…
 
 
 
-Có thông tin virus Corona chỉ sống được ở nhiệt độ dưới 25 độ C có đúng không? Miền nam hoàn toàn không có nguy cơ lây nhiễm?
-```Xin bác sĩ cho biết, biểu hiện sớm nhất của bệnh là gì, và phân biệt thế nào với các bệnh bình thường khác ạ?
-Điều này thì những nghiên cứu hiện nay chưa rõ ràng, nhưng nhiệt độ lạnh thì virus dễ phát triển và lây lan hơn, không phải là miền Nam không có nguy cơ, vì virus có thể ở trong phòng, ngoài trời…
-```Theo hiểu biết hiện nay, bệnh có thời gian ủ bệnh là 14 ngày, kể từ khi người bệnh nhiễm bệnh có thể sớm hơn hoặc nhiều nhất là 14 ngày mới có triệu chứng.
-Các triệu chứng điển hình giống người bệnh viêm đường hô hấp cấp tính, như sốt, ho, khó thở...
-
-
-
 Xin bác sĩ cho biết, biểu hiện sớm nhất của bệnh là gì, và phân biệt thế nào với các bệnh bình thường khác ạ?
 ```Đối với những người trẻ có sức đề kháng cao thì virus có thể khiến họ tử vong không thưa bác sĩ?
+
 Theo hiểu biết hiện nay, bệnh có thời gian ủ bệnh là 14 ngày, kể từ khi người bệnh nhiễm bệnh có thể sớm hơn hoặc nhiều nhất là 14 ngày mới có triệu chứng.
 Các triệu chứng điển hình giống người bệnh viêm đường hô hấp cấp tính, như sốt, ho, khó thở...
 ```Việc lây truyền nCoV không loại trừ ai, nhưng tử vong phụ thuộc vào yếu tố, không phải người trẻ, khỏe mạnh là không mắc bệnh nặng và không tử vong.
@@ -40,18 +26,9 @@ Nhưng người mắc bệnh mãn tính, người già, có bệnh nền nguy c�
 
 
 
-Đối với những người trẻ có sức đề kháng cao thì virus có thể khiến họ tử vong không thưa bác sĩ?
-```Những người có biểu hiện như thế nào thì cần đến gặp bác sĩ và khi khám ở đâu sẽ cho ra kết quả đúng nhất?
-Việc lây truyền nCoV không loại trừ ai, nhưng tử vong phụ thuộc vào yếu tố, không phải người trẻ, khỏe mạnh là không mắc bệnh nặng và không tử vong.
-Nhưng người mắc bệnh mãn tính, người già, có bệnh nền nguy cơ tử vong cao hơn.
-```Hiện nay nCoV là bệnh lây qua đường hô hấp. Dấu hiệu của bệnh là sốt, ho, khó thở, biểu hiện như là viêm phổi cấp, càng được chú ý đối với những người đi từ Trung Quốc về, hoặc người đi từ vùng dịch về, người có nguy cơ tiếp xúc với người bệnh.
-Bộ Y tế đã thông báo danh sách bệnh viện có khả năng cách ly điều trị nCoV, nhưng theo tôi cứ đến cơ sở y tế gần nhất để được khám, tư vấn, nếu là nCoV thì được giới thiệu đến cơ sở phù hợp.
-Tôi cũng khuyến cáo khi còn nghi ngờ nên thực hiện phòng hộ như rửa tay sạch thường xuyên, hạn chế tiếp xúc, đeo khẩu trang... để hạn chế lây lan.
-
-
-
 Những người có biểu hiện như thế nào thì cần đến gặp bác sĩ và khi khám ở đâu sẽ cho ra kết quả đúng nhất?
 ```Khẩu trang y tế bình thường có khả năng cản virus như thế nào?
+
 Hiện nay nCoV là bệnh lây qua đường hô hấp. Dấu hiệu của bệnh là sốt, ho, khó thở, biểu hiện như là viêm phổi cấp, càng được chú ý đối với những người đi từ Trung Quốc về, hoặc người đi từ vùng dịch về, người có nguy cơ tiếp xúc với người bệnh.
 Bộ Y tế đã thông báo danh sách bệnh viện có khả năng cách ly điều trị nCoV, nhưng theo tôi cứ đến cơ sở y tế gần nhất để được khám, tư vấn, nếu là nCoV thì được giới thiệu đến cơ sở phù hợp.
 Tôi cũng khuyến cáo khi còn nghi ngờ nên thực hiện phòng hộ như rửa tay sạch thường xuyên, hạn chế tiếp xúc, đeo khẩu trang... để hạn chế lây lan.
@@ -61,39 +38,18 @@ Khẩu trang N95 sử dụng tốt cho người đi vào ổ dịch, người ch
 
 
 
-Khẩu trang y tế bình thường có khả năng cản virus như thế nào?
-```Xin bác sĩ cho biết bệnh nguy hiểm thế nào? Và độ tuổi nào dễ gây tử vong? Vào mùa dịch trẻ đi học mẫu giáo có an toàn không? Xin cảm ơn bác sĩ.
-Hiện nay khẩu trang y tế được sử dụng trong việc phòng chống bệnh truyền nhiễm, kể cả bệnh do nCoV.
-Bộ Y tế khuyến cáo khẩu trang y tế thông thường sử dụng tốt cho người có nguy cơ như làm việc ở cửa khẩu, làm việc ở bệnh viện, đi đến nơi đông người.
-Khẩu trang N95 sử dụng tốt cho người đi vào ổ dịch, người chăm sóc bệnh nhân tại ổ dịch.
-```Bệnh do virus corona cũng giống như bệnh virus hô hấp khác, khác cơ địa đặc biệt thôi. Với trên 8.000 ca nhiễm, tỉ lệ tử vong 3% và cơ địa đặc biệt thì tỉ lệ và cơ địa tử vong là rất tin cậy.
-
-
-
 Xin bác sĩ cho biết bệnh nguy hiểm thế nào? Và độ tuổi nào dễ gây tử vong? Vào mùa dịch trẻ đi học mẫu giáo có an toàn không? Xin cảm ơn bác sĩ.
 ```Chào bác sĩ, em có những câu hỏi như sau: 1/ Em có 2 bé bị Hen Cơ Địa, vậy có được xem là Bệnh Nền sẽ chuyển nặng nếu lỡ bị nhiễm Virus Corona chủng mới này hay không? 2/ Em có đọc một số nghiên cứu đề cập rằng, Corona này sẽ suy yếu ở môi trường nhi...
+
 Bệnh do virus corona cũng giống như bệnh virus hô hấp khác, khác cơ địa đặc biệt thôi. Với trên 8.000 ca nhiễm, tỉ lệ tử vong 3% và cơ địa đặc biệt thì tỉ lệ và cơ địa tử vong là rất tin cậy.
 ```Hen suyễn thì cũng làm như mọi khi thôi, không có gì mới, cũng áp dụng phòng ngừa như người khác.
 Trên 25 độ , độ ẩm cao sẽ làm virus yếu đi nhiều, môi trường thông thoáng sẽ làm mật độ virus loãng ra nên khó gây bệnh hơn. Miền nam có ưu thế nhưng không chủ quan, nên làm theo phòng ngừa luôn luôn có lợi.
 
 
 
-Chào bác sĩ, em có những câu hỏi như sau: 1/ Em có 2 bé bị Hen Cơ Địa, vậy có được xem là Bệnh Nền sẽ chuyển nặng nếu lỡ bị nhiễm Virus Corona chủng mới này hay không? 2/ Em có đọc một số nghiên cứu đề cập rằng, Corona này sẽ suy yếu ở môi trường nhi...
-```Tại TP.HCM các trường đang chuẩn bị đi học lại, hiện nhiều phụ huynh đề nghị cho HS nghỉ thêm 2 tuần để theo dõi, theo bác việc này có nên không? Bác có lời khuyên nào cho phụ huynh để họ an tâm hơn?
-Hen suyễn thì cũng làm như mọi khi thôi, không có gì mới, cũng áp dụng phòng ngừa như người khác.
-Trên 25 độ , độ ẩm cao sẽ làm virus yếu đi nhiều, môi trường thông thoáng sẽ làm mật độ virus loãng ra nên khó gây bệnh hơn. Miền nam có ưu thế nhưng không chủ quan, nên làm theo phòng ngừa luôn luôn có lợi.
-```Nghỉ 2 tuần không chắc đã đủ, vậy sẽ nghỉ đến bao giờ? Nói nghỉ 2 tuần là 14 ngày hết thời gian ủ bệnh thì không phải, chỉ em nào đi về từ Trung Quốc mới bàn, còn đi đâu trong nước hay đi nước khác kệ mấy bé. Nhưng cũng nên hạn chế bớt những buổi tập trung đông học sinh, đến thì vào lớp, hết học thì về và rửa tay.
-Người dân cần làm gì?
-Để chủ động phòng bệnh, Trung tâm kiểm soát Bệnh tật TP.HCM khuyến cáo người dân luôn luôn thực hiện các biện pháp dự phòng thường quy đối với bệnh hô hấp như sau:
-Thường xuyên rửa tay bằng nước và xà phòng hoặc dung dịch sát khuẩn. Dùng khăn giấy hoặc cánh tay để che miệng và mũi khi ho, khi hắt hơi; sau đó bỏ khăn giấy vào thùng rác và rửa sạch bàn tay bằng xà phòng.
-Tránh tiếp xúc gần với người đang sốt, ho. Giữ gìn nhà cửa thông thoáng.
-Nếu đang bị sốt, ho, khó thở cần đến khám tại cơ sở y tế, và cho bác sĩ biết các thông tin về hành trình di chuyển trước đó của bạn.
-Người bị bệnh viêm hô hấp nên hạn chế tiếp xúc tại nơi đông người. Chủ động đeo khẩu trang để tránh lây bệnh cho người xung quanh.
-
-
-
 Tại TP.HCM các trường đang chuẩn bị đi học lại, hiện nhiều phụ huynh đề nghị cho HS nghỉ thêm 2 tuần để theo dõi, theo bác việc này có nên không? Bác có lời khuyên nào cho phụ huynh để họ an tâm hơn?
 ```Nhiều người đang hiểu sai về corona, dẫn tới hoang mang. Xin bác cung cấp thông tin chính xác về virus này để người dân hiểu đúng ạ.
+
 Nghỉ 2 tuần không chắc đã đủ, vậy sẽ nghỉ đến bao giờ? Nói nghỉ 2 tuần là 14 ngày hết thời gian ủ bệnh thì không phải, chỉ em nào đi về từ Trung Quốc mới bàn, còn đi đâu trong nước hay đi nước khác kệ mấy bé. Nhưng cũng nên hạn chế bớt những buổi tập trung đông học sinh, đến thì vào lớp, hết học thì về và rửa tay.
 Người dân cần làm gì?
 Để chủ động phòng bệnh, Trung tâm kiểm soát Bệnh tật TP.HCM khuyến cáo người dân luôn luôn thực hiện các biện pháp dự phòng thường quy đối với bệnh hô hấp như sau:
@@ -105,19 +61,9 @@ Người bị bệnh viêm hô hấp nên hạn chế tiếp xúc tại n�
 
 
 
-Nhiều người đang hiểu sai về corona, dẫn tới hoang mang. Xin bác cung cấp thông tin chính xác về virus này để người dân hiểu đúng ạ.
-```Em bị sốt 38,5 độ, đau đầu, mỏi mắt, giữa lúc dịch bênh phổi corona đang phát triển, em rất lo lắng, xin hỏi, em muốn kiểm tra bệnh thì nên đến viện nào, sau bao lâu thì có kết quả. Nếu e phải nằm viện cách ly thì ngừoi thân thâm khám có vấn đề gì k ...
-Coronavirus có hai dòng, một gây bệnh cho người (có 4 con) gọi là Human coronavirus, dòng khác chỉ gây bệnh ở động vật, điều này cũng giống nhiều virus khác. Đây là lần thứ ba coronavirus từ vật lây qua người rồi biến đổi thích ứng với cơ thể người lây từ người sang người và có thể tương lai có con thứ tư, thứ năm... vì người và vật càng ngày càng tiếp xúc gần.
-```Chào bạn! Bác sĩ hiểu vấn đề chị đang rất lo lắng do có các triệu chứng nhiễm siêu vi giữa lúc đang có dịch corona và giữa hàng loạt các thông tin trên các phương tiện đại chúng.
-Để xác định một trường hợp có nghi ngờ nhiễm corona thì bác sĩ sẽ cần xác định thêm các yếu tố về dịch tễ như có đến/đi/ở/về từ vùng dịch tễ, tiếp xúc gần với các trường hợp có khả năng nghi ngờ hoặc có thể nhiễm bệnh corona.
-Bạn có thể đến khám tại các cơ sở y tế tại địa phương, các bác sĩ sẽ giúp chị phân loại chị thuộc nhóm bệnh nhân nào và có hướng dẫn phù hợp.
-Hiện tại TP.HCM có bệnh viện Bệnh Nhiệt Đới, bệnh viện Chợ Rẫy phụ trách điều trị bệnh nhiễm Corona.
-Trường hợp bạn là trường hợp nghi ngờ nhiễm corona, phải cách ly thì những người tiếp xúc gần với chị sẽ được bộ phận chuyên trách theo dõi, và hướng dẫn cách ly phù hợp
-
-
-
 Em bị sốt 38,5 độ, đau đầu, mỏi mắt, giữa lúc dịch bênh phổi corona đang phát triển, em rất lo lắng, xin hỏi, em muốn kiểm tra bệnh thì nên đến viện nào, sau bao lâu thì có kết quả. Nếu e phải nằm viện cách ly thì ngừoi thân thâm khám có vấn đề gì k ...
 ```Ngày trước ở BV Nhiệt đới TƯ, dịch SARS được đẩy lui nhờ các bác sĩ đốt bồ kết, vậy có thể áp dụng cho Corona hay không. Xin cảm ơn
+
 Chào bạn! Bác sĩ hiểu vấn đề chị đang rất lo lắng do có các triệu chứng nhiễm siêu vi giữa lúc đang có dịch corona và giữa hàng loạt các thông tin trên các phương tiện đại chúng.
 Để xác định một trường hợp có nghi ngờ nhiễm corona thì bác sĩ sẽ cần xác định thêm các yếu tố về dịch tễ như có đến/đi/ở/về từ vùng dịch tễ, tiếp xúc gần với các trường hợp có khả năng nghi ngờ hoặc có thể nhiễm bệnh corona.
 Bạn có thể đến khám tại các cơ sở y tế tại địa phương, các bác sĩ sẽ giúp chị phân loại chị thuộc nhóm bệnh nhân nào và có hướng dẫn phù hợp.
@@ -128,76 +74,42 @@ Trường hợp bạn là trường hợp nghi ngờ nhiễm corona, phải các
 
 
 
-Ngày trước ở BV Nhiệt đới TƯ, dịch SARS được đẩy lui nhờ các bác sĩ đốt bồ kết, vậy có thể áp dụng cho Corona hay không. Xin cảm ơn
-```Thông tin sáng nay cho biết chỉ có khẩu trang dành cho BS phẫu thuật mới có thể ngăn được virus, điều này có đúng không? Nhờ bác sĩ tư vấn thêm về việc đeo khẩu trang phòng chống bệnh.
-Cái quan trọng tôi cho là nên mở toang buồng bệnh, phòng ở để virus không lưu cữu, Bệnh viện Việt Pháp dùng điều hòa, đóng kín cửa thì lây lan, sau này sang Bệnh viện Bệnh nhiệt đới mở toang cánh cửa thì hạn chế lây lan.
-Đốt bồ kết chưa rõ ràng lắm, nhưng phải tẩy trùng, khử khuẩn đầy đủ cả không khí và buồng bệnh.
-```Có người nói con virus nhỏ xíu chui qua mọi thứ, nói vậy là không đúng. Virus ra ngoài môi trường nó nằm trong chất tiết của đường hô hấp gọi là giọt bắn, cái gì ngăn được giọt bắn không vào đường hô hấp là ngừa được bệnh, cho nên khẩu trang 3 lớp hay rửa tay là ngăn được.
-Mang khẩu trang khi ra đám đông và khi tiếp xúc từ 2 mét trở lại với người bệnh là hiệu quả, khẩu trang phải trùm qua mũi, trùm luôn cằm, ép phần mũi cho sát, phần sậm ra ngoài.
-
-
-
 Thông tin sáng nay cho biết chỉ có khẩu trang dành cho BS phẫu thuật mới có thể ngăn được virus, điều này có đúng không? Nhờ bác sĩ tư vấn thêm về việc đeo khẩu trang phòng chống bệnh.
 ```Nghe nói thời gian ủ, phát bệnh là 2 tuần. Như vậy những trường hợp ở vùng có người bị bệnh, hoặc có tiếp xúc người bệnh nếu sau 2 tuần không có dấu hiệu gì có phải là không nhiễm bệnh không?
+
 Có người nói con virus nhỏ xíu chui qua mọi thứ, nói vậy là không đúng. Virus ra ngoài môi trường nó nằm trong chất tiết của đường hô hấp gọi là giọt bắn, cái gì ngăn được giọt bắn không vào đường hô hấp là ngừa được bệnh, cho nên khẩu trang 3 lớp hay rửa tay là ngăn được.
 Mang khẩu trang khi ra đám đông và khi tiếp xúc từ 2 mét trở lại với người bệnh là hiệu quả, khẩu trang phải trùm qua mũi, trùm luôn cằm, ép phần mũi cho sát, phần sậm ra ngoài.
 ```Ủ bệnh là virus vào phát bệnh, tối đa 14 ngày là trong vong 14 ngày phải phát ra mà 14 ngày không phát ra thì không có virus trong người.
 
 
 
-Nghe nói thời gian ủ, phát bệnh là 2 tuần. Như vậy những trường hợp ở vùng có người bị bệnh, hoặc có tiếp xúc người bệnh nếu sau 2 tuần không có dấu hiệu gì có phải là không nhiễm bệnh không?
-```Trước diễn biến của dịch bệnh, nhất là thời điểm mọi người đi chơi nhiều, xin bác sĩ cho chúng tôi lời khuyên…
-Ủ bệnh là virus vào phát bệnh, tối đa 14 ngày là trong vong 14 ngày phải phát ra mà 14 ngày không phát ra thì không có virus trong người.
-```Con người bây giờ giao lưu đi lại nhiều, khám phá nhiều và tiếp xúc nhiều với nhau và với động vật. Khái niệm bệnh lây từ động vật có từ lâu, và corona virus mới này cũng là hiện tượng tất yếu và không biết đến lúc nào, việc quan trọng là khi nó đến thì ứng phó trách nhiệm vì cộng đồng. Tìm hiểu THÔNG TIN CHÍNH XÁC chứ không hoảng loạn khi nghe tin vịt.
-
-
-
 Trước diễn biến của dịch bệnh, nhất là thời điểm mọi người đi chơi nhiều, xin bác sĩ cho chúng tôi lời khuyên…
 ```Vius lây bệnh qua người bằng con đường nào, thời gian lây bệnh đến phát bệnh trong thời gian bao lâu?
+
 Con người bây giờ giao lưu đi lại nhiều, khám phá nhiều và tiếp xúc nhiều với nhau và với động vật. Khái niệm bệnh lây từ động vật có từ lâu, và corona virus mới này cũng là hiện tượng tất yếu và không biết đến lúc nào, việc quan trọng là khi nó đến thì ứng phó trách nhiệm vì cộng đồng. Tìm hiểu THÔNG TIN CHÍNH XÁC chứ không hoảng loạn khi nghe tin vịt.
 ```Virus này lây qua đường không khí, qua giọt bắn nước bọt, qua vật dụng, thời gian ủ bệnh là 14 ngày.
 
 
 
-Vius lây bệnh qua người bằng con đường nào, thời gian lây bệnh đến phát bệnh trong thời gian bao lâu?
-```Xin chào Bác sĩ, trong tình trạng bệnh dịch đang lây lan rộng như hiện nay, thì phòng chống bệnh là nhiệm vụ cấp thiết. Vì vậy, khẩu trang đang là mối quan tâm của nhiều người dùng. Nhưng có vấn đề là có quá nhiều loại, cũng như là nhiều nhãn hiệu. V...
-Virus này lây qua đường không khí, qua giọt bắn nước bọt, qua vật dụng, thời gian ủ bệnh là 14 ngày.
-```Trong trường hợp sử dụng để giao tiếp, đi lại thông thường thì có thể sử dụng khẩu trang y tế 3 lớp, khẩu trang vải giặt hàng ngày. Nếu đi vào vùng dịch mới sử dụng đến khẩu trang N95.
-
-
-
 Xin chào Bác sĩ, trong tình trạng bệnh dịch đang lây lan rộng như hiện nay, thì phòng chống bệnh là nhiệm vụ cấp thiết. Vì vậy, khẩu trang đang là mối quan tâm của nhiều người dùng. Nhưng có vấn đề là có quá nhiều loại, cũng như là nhiều nhãn hiệu. V...
 ```Cho em hỏi em bị đờm cổ họng và khó thở cách đây 3 ngày có dấu hiệu mệt mỏi nhưng lại k phải từ vùng dịch về và cũng không có tiếp xúc với người mắc bệnh vậy có phải có triệu chứng nhiễm virus không ạ hay là do cơ địa bên trong thay đổi nên gây khó t...
+
 Trong trường hợp sử dụng để giao tiếp, đi lại thông thường thì có thể sử dụng khẩu trang y tế 3 lớp, khẩu trang vải giặt hàng ngày. Nếu đi vào vùng dịch mới sử dụng đến khẩu trang N95.
 ```Chào bạn! Triệu chứng đờm cổ họng, khó thở có thể do nhiều bệnh lý gây ra, không phải duy nhất do Corona virus gây ra. Bạn có chú ý tới các yếu tố dịch tễ là rất quan trọng. Khó thở là một triệu chứng bệnh lý nặng nên bạn vẫn cần đến khám và điều trị tại các cô sở y tế gần nhất.
 
 
 
-Cho em hỏi em bị đờm cổ họng và khó thở cách đây 3 ngày có dấu hiệu mệt mỏi nhưng lại k phải từ vùng dịch về và cũng không có tiếp xúc với người mắc bệnh vậy có phải có triệu chứng nhiễm virus không ạ hay là do cơ địa bên trong thay đổi nên gây khó t...
-```Tôi xin phép hỏi: Thời gian ủ bệnh chỉ tối đa 14 ngày có đúng hay không? Liệu rằng đã có trường hợp nào ủ bệnh trên 14 ngày hay không? Bác sĩ có chắc chắn là thời gian ủ bệnh tối đa chỉ 14 ngày hay không? Xin cảm ơn bác sĩ
-Chào bạn! Triệu chứng đờm cổ họng, khó thở có thể do nhiều bệnh lý gây ra, không phải duy nhất do Corona virus gây ra. Bạn có chú ý tới các yếu tố dịch tễ là rất quan trọng. Khó thở là một triệu chứng bệnh lý nặng nên bạn vẫn cần đến khám và điều trị tại các cô sở y tế gần nhất.
-```Chào bạn! Theo ghi nhận hiện tại về bệnh cảnh lâm sàng của nhiễm nCoV cho thấy thời gian ủ bệnh khoảng 14 ngày, khá dài so với các loại virus nói chung, tuy nhiên phù hợp với nhóm betacorona virus trước đó như SARS, MERS-CoV
-
-
-
 Tôi xin phép hỏi: Thời gian ủ bệnh chỉ tối đa 14 ngày có đúng hay không? Liệu rằng đã có trường hợp nào ủ bệnh trên 14 ngày hay không? Bác sĩ có chắc chắn là thời gian ủ bệnh tối đa chỉ 14 ngày hay không? Xin cảm ơn bác sĩ
 ```Thưa bác sỹ, cho em hỏi để phòng chống lây nhiễm virus corona thì nên sử dụng loại khẩu trang nào? hiện tại các loại khẩu trang ở siêu thị là loại 3 lớp, 4 lớp thì có thể phòng lây nhiễm được không? Em cảm ơn!
+
 Chào bạn! Theo ghi nhận hiện tại về bệnh cảnh lâm sàng của nhiễm nCoV cho thấy thời gian ủ bệnh khoảng 14 ngày, khá dài so với các loại virus nói chung, tuy nhiên phù hợp với nhóm betacorona virus trước đó như SARS, MERS-CoV
 ```Chào bạn! Các loại khẩu trang ngoại khoa ba lớp có tác dụng ngăn ngừa lây truyền qua các chất tiết đường hô hấp, dễ sử dụng, giá thành phù hợp nên được khuyến cáo nên sử dụng.
 
 
 
-Thưa bác sỹ, cho em hỏi để phòng chống lây nhiễm virus corona thì nên sử dụng loại khẩu trang nào? hiện tại các loại khẩu trang ở siêu thị là loại 3 lớp, 4 lớp thì có thể phòng lây nhiễm được không? Em cảm ơn!
-```Cho em hỏi là ngyên nhân và hậu quả của căn bệnh này và các con đường lây lan- cách phòng ngừa căn bệnh này như thế nào?
-Chào bạn! Các loại khẩu trang ngoại khoa ba lớp có tác dụng ngăn ngừa lây truyền qua các chất tiết đường hô hấp, dễ sử dụng, giá thành phù hợp nên được khuyến cáo nên sử dụng.
-```Nguyên nhân bệnh nhiễm corona là do một loại virus lây từ động vật sang người. Bệnh lý có thể từ nhẹ đến nặng, như viêm hô hấp trên, hoặc có thể dẫn đến tình trạng viêm phổi nặng, suy hô hấp nặng hoặc tổn thương đa tạng và tử vong.
-Các con đường lây lan qua dịch tiết đường hô hấp, không khí, tiếp xúc bề mặt, từ động vật qua người...
-Phòng ngừa: không tụ tập đông người, không đi đến các vùng dịch, rửa tay, đeo khẩu trang, ho khạc đúng cách, ăn thức ăn nấu chín, không tiếp xúc với các động vật hoang dã.
-
-
-
 Cho em hỏi là ngyên nhân và hậu quả của căn bệnh này và các con đường lây lan- cách phòng ngừa căn bệnh này như thế nào?
 ```Trường học nên có những chuẩn bị gì để đảm bảo sức khỏe cho học sinh cũng như phòng chống bệnh lây lan trong trường học. Xin cảm ơn.
+
 Nguyên nhân bệnh nhiễm corona là do một loại virus lây từ động vật sang người. Bệnh lý có thể từ nhẹ đến nặng, như viêm hô hấp trên, hoặc có thể dẫn đến tình trạng viêm phổi nặng, suy hô hấp nặng hoặc tổn thương đa tạng và tử vong.
 Các con đường lây lan qua dịch tiết đường hô hấp, không khí, tiếp xúc bề mặt, từ động vật qua người...
 Phòng ngừa: không tụ tập đông người, không đi đến các vùng dịch, rửa tay, đeo khẩu trang, ho khạc đúng cách, ăn thức ăn nấu chín, không tiếp xúc với các động vật hoang dã.
@@ -206,32 +118,18 @@ Vì vậy các nhà trường phải phổ biến cho học sinh khi có học s
 
 
 
-Trường học nên có những chuẩn bị gì để đảm bảo sức khỏe cho học sinh cũng như phòng chống bệnh lây lan trong trường học. Xin cảm ơn.
-```Tôi muốn hỏi nếu người đã tiêm phòng cúm rồi thì nguy cơ nhiễm corona có giảm không? Cảm ơn bác sĩ.
-Trường học là nơi tập trung đông đúc, các bệnh truyền nhiễm dễ lây lan và không loại trừ lây lan nCoV nếu như có 1 học sinh trong trường bị nhiễm, sự lây lan rộng là rất lớn.
-Vì vậy các nhà trường phải phổ biến cho học sinh khi có học sinh bị sốt, ho phải đến ngay cơ sở y tế để được khám, phát hiện và điều trị, nếu là nCoV phải thực hiện các biện pháp đáp ứng, ví dụ như vấn đề cách ly học sinh, vấn đề tẩy uế trường học, thậm chí là cho học sinh nghỉ học ở quy mô lớp hoặc quy mô trường.
-```Chào bạn! Rất hoan nghênh vì bạn có ý thức tiêm ngừa cúm để phòng bệnh, tuy nhiên đây là loại cúm thông thường. Kháng thể tạo ra do chích vaccin cúm thông thường không có khả năng chống lại virus corana.
-
-
-
 Tôi muốn hỏi nếu người đã tiêm phòng cúm rồi thì nguy cơ nhiễm corona có giảm không? Cảm ơn bác sĩ.
 ```Cho cháu hỏi nếu cháu đi bơi ở hồ bơi công cộng thì có khả năng bị nhiễm virus không và virus Corona có lan truyền trong nước được không ạ ? Cháu cảm ơn.
+
 Chào bạn! Rất hoan nghênh vì bạn có ý thức tiêm ngừa cúm để phòng bệnh, tuy nhiên đây là loại cúm thông thường. Kháng thể tạo ra do chích vaccin cúm thông thường không có khả năng chống lại virus corana.
 ```Bệnh này lây truyền qua đường truyền nhiễm, qua không khí, cháu đi bơi là đến nơi đông người, có nguy cơ lây qua không khí hoặc qua vật dụng sử dụng chung. Vì thế vẫn nên áp dụng biện pháp phòng hộ cá nhân theo khuyến cáo của Bộ Y tế về phòng chống bệnh lây qua đường hô hấp.
 Bệnh này không lây qua đường nước.
 
 
 
-Cho cháu hỏi nếu cháu đi bơi ở hồ bơi công cộng thì có khả năng bị nhiễm virus không và virus Corona có lan truyền trong nước được không ạ ? Cháu cảm ơn.
-```nCoV có phải chủng cúm hay không? Và có thời gian ủ bệnh không? Nếu đúng thì bệnh nhân trong giai đoạn ủ bệnh có khả năng lây lan cao?
-Bệnh này lây truyền qua đường truyền nhiễm, qua không khí, cháu đi bơi là đến nơi đông người, có nguy cơ lây qua không khí hoặc qua vật dụng sử dụng chung. Vì thế vẫn nên áp dụng biện pháp phòng hộ cá nhân theo khuyến cáo của Bộ Y tế về phòng chống bệnh lây qua đường hô hấp.
-Bệnh này không lây qua đường nước.
-```nCoV là một loại betacorona virus, lây truyền từ động vật qua người. Đây không phải là một loại cúm thông thường. Tất cả các tác nhân gây bệnh khi xâm nhập vào cơ thể đều có thời gian ủ bệnh, sinh sôi cho đến đủ số lượng và tương tác với cô thể gây ra các triệu chứng. Thường trong giai đoạn ủ bệnh là giai đoạn virus tăng cao nên khả năng lây lan cao.
-
-
-
 nCoV có phải chủng cúm hay không? Và có thời gian ủ bệnh không? Nếu đúng thì bệnh nhân trong giai đoạn ủ bệnh có khả năng lây lan cao?
 ```Có phải ai bị nhiễm virut này đều chết? Nếu không thì do sức đề kháng của nỗi người mà ta có thể vượt qua bệnh phải không?
+
 nCoV là một loại betacorona virus, lây truyền từ động vật qua người. Đây không phải là một loại cúm thông thường. Tất cả các tác nhân gây bệnh khi xâm nhập vào cơ thể đều có thời gian ủ bệnh, sinh sôi cho đến đủ số lượng và tương tác với cô thể gây ra các triệu chứng. Thường trong giai đoạn ủ bệnh là giai đoạn virus tăng cao nên khả năng lây lan cao.
 ```Không phải như thế!
 Virus này đã làm trên 9.000 người bị bệnh, tỷ lệ tử vong thấp hơn SARS và MERS- CoV.
@@ -239,17 +137,9 @@ Hai bệnh nhân Trung Quốc ở VN đều đã tiến triển tốt, người 
 
 
 
-Có phải ai bị nhiễm virut này đều chết? Nếu không thì do sức đề kháng của nỗi người mà ta có thể vượt qua bệnh phải không?
-```Thưa Bác sĩ, một người bị dương tính với virus nCoV nếu được điều trị khỏi. Thì dựa vào phương pháp điều trị hay do sức đề kháng của mỗi người, cái nào chiếm tỷ lệ phần trăm cao hơn ạ?
-Không phải như thế!
-Virus này đã làm trên 9.000 người bị bệnh, tỷ lệ tử vong thấp hơn SARS và MERS- CoV.
-Hai bệnh nhân Trung Quốc ở VN đều đã tiến triển tốt, người con đã khỏi bệnh, người có bệnh nền như tim mạch, đái đường thì nguy cơ cao hơn.
-```Chào bạn! Phương pháp điều trị và sức đề kháng của bệnh nhân đều đóng vai trò rất qua trọng như nhau trong quá trình phục hồi của bệnh, khó có thể cân đo đong đếm cụ thể trong các trường hợp bệnh nói chung. Và trong phương pháp điều trị vẫn luôn có phần nâng tổng trạng bệnh nhân, tăng sức đề kháng...khó mà chia rạch ròi ra được.
-
-
-
 Thưa Bác sĩ, một người bị dương tính với virus nCoV nếu được điều trị khỏi. Thì dựa vào phương pháp điều trị hay do sức đề kháng của mỗi người, cái nào chiếm tỷ lệ phần trăm cao hơn ạ?
 ```Cách ăn uống, phòng tránh lây lan , liệu đeo khẩu trang có giảm được dịch không thưa bác sĩ ?
+
 Chào bạn! Phương pháp điều trị và sức đề kháng của bệnh nhân đều đóng vai trò rất qua trọng như nhau trong quá trình phục hồi của bệnh, khó có thể cân đo đong đếm cụ thể trong các trường hợp bệnh nói chung. Và trong phương pháp điều trị vẫn luôn có phần nâng tổng trạng bệnh nhân, tăng sức đề kháng...khó mà chia rạch ròi ra được.
 ```Chào bạn. Giảm được dịch được hiểu là giảm lây lan và giảm số lượng bệnh nhân mới mắc.
 Dịch bệnh do mỗi tác nhân gây bệnh có các cách lây truyền khác nhau. cho dến thời điểm hiện tại, cách lây truyền bệnh nhóm virus corona bằng các đường hô hấp, chất tiết, không khí, tiếp xúc bề mặt, lây từ các dịch khác của cơ thể (có thể), từ động vật hoang dã qua người.
@@ -259,35 +149,18 @@ Rửa tay là một trong những cách đơn giản để phòng ngừa lây tr
 
 
 
-Cách ăn uống, phòng tránh lây lan , liệu đeo khẩu trang có giảm được dịch không thưa bác sĩ ?
-```Cho em hỏi biệu hiện mắc bệnh nó theo trình tự như thế nào ạ .nó chỉ bị đau đầu hoặc là chỉ khó thở hay là bị hết tất cả cùng một lúc ạ
-Chào bạn. Giảm được dịch được hiểu là giảm lây lan và giảm số lượng bệnh nhân mới mắc.
-Dịch bệnh do mỗi tác nhân gây bệnh có các cách lây truyền khác nhau. cho dến thời điểm hiện tại, cách lây truyền bệnh nhóm virus corona bằng các đường hô hấp, chất tiết, không khí, tiếp xúc bề mặt, lây từ các dịch khác của cơ thể (có thể), từ động vật hoang dã qua người.
-Vậy cách phòng bệnh dịch bệnh do corona được khuyến cáo hiện tại bao gồng ăn uống nghỉ ngơi đầy đủ, tăng sức đề kháng của cơ thể, tránh tụ tập nơi đông người, khi có các biểu hiện viêm đường hô hấp như sốt, ho, sổ mũi thì phải mang khẩu trang, ho khạc đúng cách.
-Nếu bạn có yếu tố đi đến ở từ vùng đang có dịch, tiếp xúc với người được chẩn đoán là xác định hoặc nghi ngờ nhiễm Corona trước đó thì phải đến các cơ sở y tế để được hỗ trợ cách ly và xét nghiệm chẩn đoán bệnh để giảm nguy cơ lây lan cho cộng đồng.
-Rửa tay là một trong những cách đơn giản để phòng ngừa lây truyền qua tiếp xúc bề mặt. Phối hợp nhiều biện pháp sẽ giúp kiểm soát và giảm được dịch
-```Thường bệnh như thế này sốt bao giờ cũng biểu hiện đầu tiên, sau là ho, khó thở, tiếp theo có thể là mệt mỏi, đau toàn thân, nặng có thể là ngừng thở hoặc biến chứng ra các phủ tạng khác. Chính vì sốt nên mới sử dụng đo nhiệt độ từ xa để kiểm soát người bị bệnh.
-
-
-
 Cho em hỏi biệu hiện mắc bệnh nó theo trình tự như thế nào ạ .nó chỉ bị đau đầu hoặc là chỉ khó thở hay là bị hết tất cả cùng một lúc ạ
 ```Hãy cho tôi biết về cách vi rút này lây lan, thời gian bao lâu kể từ khi tiếp xúc với người bệnh thì biểu hiện bệnh, biểu hiện sau khi mắc bệnh như thế nào ,cách phòng ngừa hiệu quả nhất Hiện tại việt nam mình đã chữa khỏi được bệnh này chưa ,sau khi...
+
 Thường bệnh như thế này sốt bao giờ cũng biểu hiện đầu tiên, sau là ho, khó thở, tiếp theo có thể là mệt mỏi, đau toàn thân, nặng có thể là ngừng thở hoặc biến chứng ra các phủ tạng khác. Chính vì sốt nên mới sử dụng đo nhiệt độ từ xa để kiểm soát người bị bệnh.
 ```Hiện nay người ta mới đưa thời gian ủ bệnh là trong vòng 14 ngày, nếu đi từ vùng dịch về trong 14 ngày không phát bệnh thì tạm thời yên tâm. Còn thời gian lưu virus lại trong cơ thể thì phụ thuộc vào thời gian điều trị, nếu điều trị không khỏi thì kéo rất dài.
 Sau khi mắc bệnh thì chưa thấy nói gì về di chứng, nhưng viêm phổi cấp dẫn đến tổn thương, rối loạn chức năng của các tổ chức đó. Di chứng bên ngoài như liệt thì chưa thấy công bố.
 
 
 
-Hãy cho tôi biết về cách vi rút này lây lan, thời gian bao lâu kể từ khi tiếp xúc với người bệnh thì biểu hiện bệnh, biểu hiện sau khi mắc bệnh như thế nào ,cách phòng ngừa hiệu quả nhất Hiện tại việt nam mình đã chữa khỏi được bệnh này chưa ,sau khi...
-```Làm sao để phân biệt được cảm thông thường và cảm do virus Vũ Hán? Cách xử lí khi tiếp xúc với người nghi bị nhiễm virus Vũ Hán? Xin cảm ơn!
-Hiện nay người ta mới đưa thời gian ủ bệnh là trong vòng 14 ngày, nếu đi từ vùng dịch về trong 14 ngày không phát bệnh thì tạm thời yên tâm. Còn thời gian lưu virus lại trong cơ thể thì phụ thuộc vào thời gian điều trị, nếu điều trị không khỏi thì kéo rất dài.
-Sau khi mắc bệnh thì chưa thấy nói gì về di chứng, nhưng viêm phổi cấp dẫn đến tổn thương, rối loạn chức năng của các tổ chức đó. Di chứng bên ngoài như liệt thì chưa thấy công bố.
-```Không phân biệt được, nghi tiếp xúc người bị bệnh thì hạn chế đi lung tung trong 14 ngày, có triệu chứng thì đi khám.
-
-
-
 Làm sao để phân biệt được cảm thông thường và cảm do virus Vũ Hán? Cách xử lí khi tiếp xúc với người nghi bị nhiễm virus Vũ Hán? Xin cảm ơn!
 ```Em đọc các bài báo liên qua đến triệu chứng của corona và phát hiện 1 triêu chứng mà chỉ có ở corona là khó thở, Dịp tết này về quê đi nhiều thì khá dễ bị cảm sốt thông thường. Vậy em xin hỏi có thể dựa vào đến lúc khó thở thì mới xác định là nghi ng...
+
 Không phân biệt được, nghi tiếp xúc người bị bệnh thì hạn chế đi lung tung trong 14 ngày, có triệu chứng thì đi khám.
 ```Chào bạn! Triệu chứng khó thở không phải chỉ có ở bệnh nhiễm corona, mà có thể do rất nhiều bệnh lý khác gây ra, thường là dấu hiệu bệnh nặng.
 Nếu khó thở khởi phát sau các triệu chứng sốt, ho thì có khả năng có tình trạng tổn thương phổi do một tác nhân siêu vi, vi trùng...
@@ -295,17 +168,9 @@ Sốt mệt mỏi vẫn nên khám để được bác sĩ cho đánh giá về 
 
 
 
-Em đọc các bài báo liên qua đến triệu chứng của corona và phát hiện 1 triêu chứng mà chỉ có ở corona là khó thở, Dịp tết này về quê đi nhiều thì khá dễ bị cảm sốt thông thường. Vậy em xin hỏi có thể dựa vào đến lúc khó thở thì mới xác định là nghi ng...
-```Nước rửa tay dạng cồn (dùng ở các bệnh viện) có ngăn được corona? Tôi có đọc thông tin rằng chỉ sau vài phút là nước này đã hết hiệu lực?
-Chào bạn! Triệu chứng khó thở không phải chỉ có ở bệnh nhiễm corona, mà có thể do rất nhiều bệnh lý khác gây ra, thường là dấu hiệu bệnh nặng.
-Nếu khó thở khởi phát sau các triệu chứng sốt, ho thì có khả năng có tình trạng tổn thương phổi do một tác nhân siêu vi, vi trùng...
-Sốt mệt mỏi vẫn nên khám để được bác sĩ cho đánh giá về tình trạng bệnh lý phù hợp với từng người, có thể do rất nhiều nguyên nhân gây ra, không chỉ do corona.
-```Nước sát trùng tay nhanh ở bệnh viện diệt được virus chứ!
-
-
-
 Nước rửa tay dạng cồn (dùng ở các bệnh viện) có ngăn được corona? Tôi có đọc thông tin rằng chỉ sau vài phút là nước này đã hết hiệu lực?
 ```Có một bệnh nhân người Trung Quốc đã được điều trị khỏi bệnh dù chưa biết văc xin chống lại loại virus này. Vậy thì phương pháp điều trị khỏi bệnh là như thế nào ạ? Và con vorus corona trong người bệnh nhân đã bị tiêu diệt chưa hay chúng chỉ tạm thời...
+
 Nước sát trùng tay nhanh ở bệnh viện diệt được virus chứ!
 ```Vì tình trạng nghiêm trọng dịch bệnh nCoV, nỗ lực nghiên cứu vaccin đang được đẩy mạnh nhằm sớm có vaccin, giúp tạo miễn dịch với bệnh do nCoV.
 Hiện tại chưa có thuốc điều trị virus đặc hiệu. Phương pháp điều trị nên được cá thể hóa tùy mỗi bệnh nhân, các đặc trưng về độ tuổi, bệnh lý nền. Hiện tại, điều trị triệu chứng, nâng đỡ tổng trạng, điều trị bệnh lý nền, tập vật lý trị liệu hô hấp, súc họng, cách ly bệnh nhân ở phòng bệnh thông thoáng, có ánh nắng.
@@ -313,18 +178,9 @@ Hiện tại chưa có thuốc điều trị virus đặc hiệu. Phương pháp
 
 
 
-Có một bệnh nhân người Trung Quốc đã được điều trị khỏi bệnh dù chưa biết văc xin chống lại loại virus này. Vậy thì phương pháp điều trị khỏi bệnh là như thế nào ạ? Và con vorus corona trong người bệnh nhân đã bị tiêu diệt chưa hay chúng chỉ tạm thời...
-```Cho em hỏi là virus corona có lây lan qua đường máu hay đường tình dục không?
-Vì tình trạng nghiêm trọng dịch bệnh nCoV, nỗ lực nghiên cứu vaccin đang được đẩy mạnh nhằm sớm có vaccin, giúp tạo miễn dịch với bệnh do nCoV.
-Hiện tại chưa có thuốc điều trị virus đặc hiệu. Phương pháp điều trị nên được cá thể hóa tùy mỗi bệnh nhân, các đặc trưng về độ tuổi, bệnh lý nền. Hiện tại, điều trị triệu chứng, nâng đỡ tổng trạng, điều trị bệnh lý nền, tập vật lý trị liệu hô hấp, súc họng, cách ly bệnh nhân ở phòng bệnh thông thoáng, có ánh nắng.
-Đây là bệnh lý nhiễm siêu vi hô hấp nên khi hết bệnh, xác định được virus âm tính hai lần liên tiếp qua các mẫu bệnh phẩm cũng có nghĩa là virus đã được thải trừ thành công, không giống như các lọai siêu vi khácc như HIV, HBV, HCV.
-```Không loại trừ được khả năng lây qua đường máu, hoặc đường tình dục vì đối với các loại betacorona virus khác vẫn phân lập được virus trong các mẫu dịch tiết vùng sinh dục.
-Đối với nCoV việc lây truyền giữa người với người cho đến hiện tại cao nhất khả năng qua các chất tiết đường hô hấp, không khí, tiếp xúc bề mặt.
-
-
-
 Cho em hỏi là virus corona có lây lan qua đường máu hay đường tình dục không?
 ```Xin hỏi các bác sĩ là hiện tại có đủ bộ kit test để chuẩn đoán bệnh hay không? và trong trường hợp xấu nhất xảy ra thì các bệnh viện sẽ đủ chỗ cho bao nhiêu bệnh nhân, vật tư y tế có đủ cung cấp cho tất cả người bệnh?
+
 Không loại trừ được khả năng lây qua đường máu, hoặc đường tình dục vì đối với các loại betacorona virus khác vẫn phân lập được virus trong các mẫu dịch tiết vùng sinh dục.
 Đối với nCoV việc lây truyền giữa người với người cho đến hiện tại cao nhất khả năng qua các chất tiết đường hô hấp, không khí, tiếp xúc bề mặt.
 ```Chào bạn! Hiện tại các cơ sở y tế, cũng như các cơ sở giám sát dịch bệnh đã có các kế hoạch cụ thể cho các trường hợp dịch xảy ra lan rộng trong cộng đồng.
@@ -333,19 +189,9 @@ Tuy nhiên, không có chỉ định xét nghiệm đại trà trong cộng đ�
 
 
 
-Xin hỏi các bác sĩ là hiện tại có đủ bộ kit test để chuẩn đoán bệnh hay không? và trong trường hợp xấu nhất xảy ra thì các bệnh viện sẽ đủ chỗ cho bao nhiêu bệnh nhân, vật tư y tế có đủ cung cấp cho tất cả người bệnh?
-```Em xin chào bác sĩ, hiện nay em đang sống và làm việc ở Nha Trang 2 ngày nay cơ thể em cảm thấy mệt mõi như muốn sốt, chãy mũi nước và tiêu chảy, em rất muốn đi khám nhưng sợ đi khám bác sĩ lại cách ly, cho em hỏi sốt đi khám bác sĩ có cách ly mình l...
-Chào bạn! Hiện tại các cơ sở y tế, cũng như các cơ sở giám sát dịch bệnh đã có các kế hoạch cụ thể cho các trường hợp dịch xảy ra lan rộng trong cộng đồng.
-Các xét nghiệm PCR và giải trình tự gen được triển khai ở những cơ sở chịu trách nhiệm về xét nghiệm trong cả nước.
-Tuy nhiên, không có chỉ định xét nghiệm đại trà trong cộng đồng, tất cả tiêu chuẩn xét nghiệm tuân theo quy trình của BYT và hướng dẫn của WHO.
-```Chào bạn! Chỉ có trường hợp được chẩn đoán là nghi ngờ nhiễm corona virus hay các bệnh dịch khác cần cách ly mới được cách ly. Việc này giúp cho ngăn ngừa dịch phát tán ra cộng đồng xung quanh và người thân của bạn nếu có.
-Bác sĩ sẽ tiến hành phân loại bạn thuộc diện nào, cần cách ly hay không và sẽ gỉai thích với bạn vì sao phải cách ly.
-Cũng có các trường hợp sẽ được lời khuyên cách ly tại nhà. Bạn đừng quá lo lắng về vấn đề cách ly.
-
-
-
 Em xin chào bác sĩ, hiện nay em đang sống và làm việc ở Nha Trang 2 ngày nay cơ thể em cảm thấy mệt mõi như muốn sốt, chãy mũi nước và tiêu chảy, em rất muốn đi khám nhưng sợ đi khám bác sĩ lại cách ly, cho em hỏi sốt đi khám bác sĩ có cách ly mình l...
 ```Tôi đang mang thai tháng thứ 5 và rất lo lắng không biết dịch corona ảnh hưởng thế nào đến thai phụ và em bé…
+
 Chào bạn! Chỉ có trường hợp được chẩn đoán là nghi ngờ nhiễm corona virus hay các bệnh dịch khác cần cách ly mới được cách ly. Việc này giúp cho ngăn ngừa dịch phát tán ra cộng đồng xung quanh và người thân của bạn nếu có.
 Bác sĩ sẽ tiến hành phân loại bạn thuộc diện nào, cần cách ly hay không và sẽ gỉai thích với bạn vì sao phải cách ly.
 Cũng có các trường hợp sẽ được lời khuyên cách ly tại nhà. Bạn đừng quá lo lắng về vấn đề cách ly.
@@ -353,16 +199,9 @@ Cũng có các trường hợp sẽ được lời khuyên cách ly tại nhà. 
 
 
 
-Tôi đang mang thai tháng thứ 5 và rất lo lắng không biết dịch corona ảnh hưởng thế nào đến thai phụ và em bé…
-```Cháu hiện đang ở Hà Tĩnh và sống trong môi trường kí túc xá của trường trung học. Liệu việc mua khẩu trang chuyên dụng như N95 có cần thiết không ạ, hay chỉ khẩu trang y tế là đủ?
-Việc nhiễm bệnh trên thai phụ sẽ nặng hơn các bệnh nhân khác do tình trạng miễn dịch yếu hơn, nhiều nguy cơ sảy thai và sanh non. Phụ nữ có thai cần chủ động áp dụng các biện pháp phòng ngừa các bệnh lây qua đường hô hấp, không riêng gì bệnh nhiễm corona.
-```Việc mang khẩu trang được khuyến cáo khi đến nơi đông người, có khả năng tiếp xúc các nguồn bệnh không biết trước, khi có các triệu chứng sốt ho sổ mũi khó thở, khi tiếp xúc với người đang có các triệu chứng kể trên. Hiệu quả không thể ngừa được 100%, tuy nhiên sẽ làm giảm nguy cơ mắc bệnh.
-Khẩu trang N95 không được khuyến cáo sử dụng trong cộng đồng do không được đào tạo sử dụng đúng cách, khó chịu, giá thành cao, hay bị sử dụng lại nhiều lần, nên dùng khẩu trang y tế ba lớp là được, và cũng cần lưu ý phải sử dụng đúng cách.
-
-
-
 Cháu hiện đang ở Hà Tĩnh và sống trong môi trường kí túc xá của trường trung học. Liệu việc mua khẩu trang chuyên dụng như N95 có cần thiết không ạ, hay chỉ khẩu trang y tế là đủ?
 ```Xin cho tôi hỏi chỉ đeo khẩu trang thì có đủ chưa... hoặc cơ thể người khỏe mạnh thì có mắc bệnh hây không? Bản thân có thể tự kháng bệnh hay không?
+
 Việc mang khẩu trang được khuyến cáo khi đến nơi đông người, có khả năng tiếp xúc các nguồn bệnh không biết trước, khi có các triệu chứng sốt ho sổ mũi khó thở, khi tiếp xúc với người đang có các triệu chứng kể trên. Hiệu quả không thể ngừa được 100%, tuy nhiên sẽ làm giảm nguy cơ mắc bệnh.
 Khẩu trang N95 không được khuyến cáo sử dụng trong cộng đồng do không được đào tạo sử dụng đúng cách, khó chịu, giá thành cao, hay bị sử dụng lại nhiều lần, nên dùng khẩu trang y tế ba lớp là được, và cũng cần lưu ý phải sử dụng đúng cách.
 ```Bệnh xảy ra do tương tác giữa cơ thể người và virus, nên nếu virus quá nhiều, quá mạnh, hoặc cơ thể người đó có ái lực đặc biệt thì sẽ dễ bị nhiễm bệnh. Có những khiếm khuyết miễn dịch bẩm sinh đôi khi không thể hiện ra ngoài, nên người khỏe mạnh vẫn có khả năng mắc bệnh.
@@ -370,86 +209,49 @@ Việc của mình là làm những gì được khuyến cáo để giảm nguy
 
 
 
-Xin cho tôi hỏi chỉ đeo khẩu trang thì có đủ chưa... hoặc cơ thể người khỏe mạnh thì có mắc bệnh hây không? Bản thân có thể tự kháng bệnh hay không?
-```Sốt là một trong những biểu hiện của virut corona nên giờ con em, gia đình ai bị sốt cũng sợ, cũng muốn đòi kiểm tra có bị nhiễm bệnh không. Trường hợp sốt cảm cúm thường có khác gì với việc sốt do nhiễm virut, các vấn đề gì kèm theo mà có thể loại t...
-Bệnh xảy ra do tương tác giữa cơ thể người và virus, nên nếu virus quá nhiều, quá mạnh, hoặc cơ thể người đó có ái lực đặc biệt thì sẽ dễ bị nhiễm bệnh. Có những khiếm khuyết miễn dịch bẩm sinh đôi khi không thể hiện ra ngoài, nên người khỏe mạnh vẫn có khả năng mắc bệnh.
-Việc của mình là làm những gì được khuyến cáo để giảm nguy cơ tiếp xúc với tác nhân gây bệnh, giảm nguy cơ lây bệnh cho người khác. Sau khi mắc bệnh, cơ thể sẽ sinh ra kháng thể với tác nhân vừa mắc phải, tuy nhiên miễn dịch có bền vững hay không và có khả năng bảo vệ cho lần tới không thì còn tùy vào từng loại tác nhân gây bệnh.
-```Sốt mà không có nguy cơ thì không cần làm gì. Sốt do rất nhiều nguyên nhân, cách đây 1 tháng con nít và người lớn cũng sốt ho nhiều, khi đó chưa có corona mới.
-
-
-
 Sốt là một trong những biểu hiện của virut corona nên giờ con em, gia đình ai bị sốt cũng sợ, cũng muốn đòi kiểm tra có bị nhiễm bệnh không. Trường hợp sốt cảm cúm thường có khác gì với việc sốt do nhiễm virut, các vấn đề gì kèm theo mà có thể loại t...
 ```Xin hỏi bác sĩ, hiện nay người dân được khuyến cáo sử dụng khẩu trang y tế phòng chống lây nhiễm, nhưng nếu không có điều kiện hoặc không có sẵn khẩu trang y tế, người dân có thể dùng khẩu trang vải thông thường được không ạ? Xin cám ơn.
+
 Sốt mà không có nguy cơ thì không cần làm gì. Sốt do rất nhiều nguyên nhân, cách đây 1 tháng con nít và người lớn cũng sốt ho nhiều, khi đó chưa có corona mới.
 ```Khẩu trang y tế có mặt chống thấm nước bên ngoài, giữ ẩm bên trong, dùng một lần sẽ có ưu thế hơn khẩu trang vải không có các chức năng đó, dễ bị tái sử dụng nhiều lần trong ngày. Trong điều kiện không có vẫn có thể sử dụng khẩu trang vải, nhưng hiệu quả kém hơn.
 
 
 
-Xin hỏi bác sĩ, hiện nay người dân được khuyến cáo sử dụng khẩu trang y tế phòng chống lây nhiễm, nhưng nếu không có điều kiện hoặc không có sẵn khẩu trang y tế, người dân có thể dùng khẩu trang vải thông thường được không ạ? Xin cám ơn.
-```Cho tôi hỏi virus corona có thể lây dễ dàng như thế nào? Liệu chỉ cần ở chung phòng với người có bệnh cũng có thể lây nhiễm chăng, hay phải tiếp xúc với các chất dịch như nước bọt, nước mũi của họ? Xin cảm ơn.
-Khẩu trang y tế có mặt chống thấm nước bên ngoài, giữ ẩm bên trong, dùng một lần sẽ có ưu thế hơn khẩu trang vải không có các chức năng đó, dễ bị tái sử dụng nhiều lần trong ngày. Trong điều kiện không có vẫn có thể sử dụng khẩu trang vải, nhưng hiệu quả kém hơn.
-```Tiếp xúc gần được định nghĩa khả năng cao trong vòng 2m, nên bạn ở chung phòng đã gọi là tiếp xúc gần, có nguy cơ lây các bệnh qua dịch tiết hô hấp, không khí và tiếp xúc bề mặt rất cao.
-
-
-
 Cho tôi hỏi virus corona có thể lây dễ dàng như thế nào? Liệu chỉ cần ở chung phòng với người có bệnh cũng có thể lây nhiễm chăng, hay phải tiếp xúc với các chất dịch như nước bọt, nước mũi của họ? Xin cảm ơn.
 ```Bây giờ khẩu trang khan hiếm, cho hỏi phơi phóng, vệ sinh... khẩu trang y tế rồi dùng lại được không ạ?
+
 Tiếp xúc gần được định nghĩa khả năng cao trong vòng 2m, nên bạn ở chung phòng đã gọi là tiếp xúc gần, có nguy cơ lây các bệnh qua dịch tiết hô hấp, không khí và tiếp xúc bề mặt rất cao.
 ```Chào bạn! Khẩu trang y tế được sản xuất để dùng một lần, nên việc giặt phơi làm hiệu quả giảm trong vấn đề phòng bệnh.
 
 
 
-Bây giờ khẩu trang khan hiếm, cho hỏi phơi phóng, vệ sinh... khẩu trang y tế rồi dùng lại được không ạ?
-```Có ý kiến đề nghị cho học sinh nghỉ học 2 tuần đề phòng bệnh, BS thấy sao ạ?
-Chào bạn! Khẩu trang y tế được sản xuất để dùng một lần, nên việc giặt phơi làm hiệu quả giảm trong vấn đề phòng bệnh.
-```Nghỉ thì nghỉ tới chừng nào, chưa chắc 2 tuần nữa tốt hơn bây giờ. Nên cho trẻ uống đủ nước, ngủ đủ sớm và ngủ đủ giấc là quan trọng nhất.
-
-
-
 Có ý kiến đề nghị cho học sinh nghỉ học 2 tuần đề phòng bệnh, BS thấy sao ạ?
 ```Dạ cho con hỏi rằng mình nên ăn uống ra sao để phòng chống dịch bệnh, khi đi lễ chùa hay địa điểm khá đông người thì nên phòng bị như thế nào là hiệu quả nhất ạ? Đồng thời mình cần làm những gì để tăng sức đề kháng bản thân mà không quá phụ thuộc vào...
+
 Nghỉ thì nghỉ tới chừng nào, chưa chắc 2 tuần nữa tốt hơn bây giờ. Nên cho trẻ uống đủ nước, ngủ đủ sớm và ngủ đủ giấc là quan trọng nhất.
 ```Ăn uống đầy đủ, uống nước nhiều, sinh hoạt làm việc điều độ, tập thể dục để duy trì sức khỏe. Các phương pháp phòng chống đã trả lời các câu hỏi tương tự, bạn xem lại giúp nhé.
 
 
 
-Dạ cho con hỏi rằng mình nên ăn uống ra sao để phòng chống dịch bệnh, khi đi lễ chùa hay địa điểm khá đông người thì nên phòng bị như thế nào là hiệu quả nhất ạ? Đồng thời mình cần làm những gì để tăng sức đề kháng bản thân mà không quá phụ thuộc vào...
-```M với 2 ca Corona đầu tiên tại VN, ngồi đợi tàu trên ghế gần 2 người đó. Hôm nay là ngày thứ 11, em vẫn chưa có biểu hiện sốt, ho...bạn em thì hơi đau cổ họng. Vậy có cần đi xét nghiệm Corona không ạ?
-Ăn uống đầy đủ, uống nước nhiều, sinh hoạt làm việc điều độ, tập thể dục để duy trì sức khỏe. Các phương pháp phòng chống đã trả lời các câu hỏi tương tự, bạn xem lại giúp nhé.
-```Trường hợp em và bạn gọi là tiếp xúc gần, có yếu tố dịch tễ. Nếu có triệu chứng lâm sàng như sốt, ho, khó thở phải đến các cơ sở y tế để được cách ly và xét nghiệm. Nếu không có triệu chứng, nên tự cách ly theo dõi ở nhà trong 14 ngày, nên mang khẩu trang khi tiếp xúc với người khác.
-
-
-
 M với 2 ca Corona đầu tiên tại VN, ngồi đợi tàu trên ghế gần 2 người đó. Hôm nay là ngày thứ 11, em vẫn chưa có biểu hiện sốt, ho...bạn em thì hơi đau cổ họng. Vậy có cần đi xét nghiệm Corona không ạ?
 ```Bác sĩ cho hỏi Việt Nam hiện nay test được nCoV ở những BV nào, thời gian xác định âm tính hoặc dương tính mất bao lâu? Ở Phillipine đã có test kit cho kết quả trong 24h. Vậy Việt Nam bao giờ sẽ có test kit để thử nhanh?
+
 Trường hợp em và bạn gọi là tiếp xúc gần, có yếu tố dịch tễ. Nếu có triệu chứng lâm sàng như sốt, ho, khó thở phải đến các cơ sở y tế để được cách ly và xét nghiệm. Nếu không có triệu chứng, nên tự cách ly theo dõi ở nhà trong 14 ngày, nên mang khẩu trang khi tiếp xúc với người khác.
 ```Chào bạn! Xét nghiệm realtime PCR có thể có kết quả sau 24h, giải trình tự gen sau 72h làm việc liên tục.
 
 
 
-Bác sĩ cho hỏi Việt Nam hiện nay test được nCoV ở những BV nào, thời gian xác định âm tính hoặc dương tính mất bao lâu? Ở Phillipine đã có test kit cho kết quả trong 24h. Vậy Việt Nam bao giờ sẽ có test kit để thử nhanh?
-```BS cho hỏi nếu ở 1 vùng chưa có trường hợp nhiễm nà, không tiếp xúc với những ai bên Trung Quốc qua cũng như chưa nghe báo đài nhắc đến tỉnh mình (An Giang) có người bên Trung Quốc vào. Vậy nếu có những triệu chứng khá giống với dịch bệnh thì cũng ch...
-Chào bạn! Xét nghiệm realtime PCR có thể có kết quả sau 24h, giải trình tự gen sau 72h làm việc liên tục.
-```Triệu chứng nhiễm siêu vi hô hấp thường giống nhau như sốt, ho, đau họng, sổ mũi...nên không gọi là triệu chứng của bệnh dịch. Trường hợp có các biểu hiện bệnh nặng như khó thở vẫn phải đi khám để được điều trị bệnh. Ngoài corona, vẫn còn rất nhiều bệnh nguy hiểm khác bạn ạ.
-
-
-
 BS cho hỏi nếu ở 1 vùng chưa có trường hợp nhiễm nà, không tiếp xúc với những ai bên Trung Quốc qua cũng như chưa nghe báo đài nhắc đến tỉnh mình (An Giang) có người bên Trung Quốc vào. Vậy nếu có những triệu chứng khá giống với dịch bệnh thì cũng ch...
 ```Mình bị bệnh viêm phế quản (hen suyễn). Do thời tiết trở lạnh nên mình bị phát bệnh nặng hơn. Ngày 2-2-2020 này mình có chuyến bay quay lại TP.HCM làm việc. Sẽ khó tránh khỏi có triệu chứng ho và khó thở. Cho mình hỏi làm thế nào để chứng minh là khô...
+
 Triệu chứng nhiễm siêu vi hô hấp thường giống nhau như sốt, ho, đau họng, sổ mũi...nên không gọi là triệu chứng của bệnh dịch. Trường hợp có các biểu hiện bệnh nặng như khó thở vẫn phải đi khám để được điều trị bệnh. Ngoài corona, vẫn còn rất nhiều bệnh nguy hiểm khác bạn ạ.
 ```Bạn có bệnh lý hô hấp sẵn nên dễ bị nhiễm bệnh, đặc biệt là nhiễm khuẩn đường hô hấp do siêu vi, vi khuẩn. Khi đến nơi công cộng vẫn nên tự áp dụng các biện pháp dự phòng các bệnh lý lây qua đường hô hấp nói chung. Tránh đi đến các nơi đang xảy ra dịch bệnh. Theo dõi và điều trị bệnh lý nền ở phòng khám hô hấp địa phương. Nếu có yếu tố tiếp xúc về dịch tễ, sẽ được bác sĩ phân loại bạn thuộc diện nào, nghi ngơ hay có thể và có chỉ định xét nghiệm phù hợp.
 
 
 
-Mình bị bệnh viêm phế quản (hen suyễn). Do thời tiết trở lạnh nên mình bị phát bệnh nặng hơn. Ngày 2-2-2020 này mình có chuyến bay quay lại TP.HCM làm việc. Sẽ khó tránh khỏi có triệu chứng ho và khó thở. Cho mình hỏi làm thế nào để chứng minh là khô...
-```Phương pháp y học cổ truyền có thể giúp bệnh nhân trong quá trình điều trị bệnh do vi rút này gây ra không?
-Bạn có bệnh lý hô hấp sẵn nên dễ bị nhiễm bệnh, đặc biệt là nhiễm khuẩn đường hô hấp do siêu vi, vi khuẩn. Khi đến nơi công cộng vẫn nên tự áp dụng các biện pháp dự phòng các bệnh lý lây qua đường hô hấp nói chung. Tránh đi đến các nơi đang xảy ra dịch bệnh. Theo dõi và điều trị bệnh lý nền ở phòng khám hô hấp địa phương. Nếu có yếu tố tiếp xúc về dịch tễ, sẽ được bác sĩ phân loại bạn thuộc diện nào, nghi ngơ hay có thể và có chỉ định xét nghiệm phù hợp.
-```Hiện tại chưa có phương pháp nào về y học cổ truyền được thử nghiệm lâm sàng trong quá trình điều trị nên không trả lời được câu hỏi của bạn. Tuy nhiên, có những loại thuốc có thể làm long đàm, giảm ho...làm giảm triệu chứng nghĩ có thể vẫn sử dụng được. Những bệnh nhân nặng không nên điều trị tại nhà theo thuốc y học cổ truyền do có thể sẽ tương tác với các thuốc điều trị bệnh nền, không theo dõi sát và cấp cứu kịp thời.
-
-
-
 Phương pháp y học cổ truyền có thể giúp bệnh nhân trong quá trình điều trị bệnh do vi rút này gây ra không?
 ```WHO đã triệu tập họp Ủy ban Khẩn cấp đối với 2019-nCoV. Việc này nghĩa là thế nào?
+
 Hiện tại chưa có phương pháp nào về y học cổ truyền được thử nghiệm lâm sàng trong quá trình điều trị nên không trả lời được câu hỏi của bạn. Tuy nhiên, có những loại thuốc có thể làm long đàm, giảm ho...làm giảm triệu chứng nghĩ có thể vẫn sử dụng được. Những bệnh nhân nặng không nên điều trị tại nhà theo thuốc y học cổ truyền do có thể sẽ tương tác với các thuốc điều trị bệnh nền, không theo dõi sát và cấp cứu kịp thời.
 ```Ủy ban Khẩn cấp là một cuộc họp với các chuyên gia quốc tế nhằm cung cấp tư vấn chuyên môn cho Tổng Giám đốc của WHO để quyết định một sự kiện y tế công cộng có đủ điều kiện công bố là một “Sự kiện y tế công cộng khẩn cấp gây quan ngại toàn cầu” (PHEIC) hay không.
 Thuật ngữ Sự kiện y tế công cộng khẩn cấp gây quan ngại toàn cầu (PHEIC) được định nghĩa trong Điều lệ Y tế Quốc tế (IHR) (2005) là một sự kiện được xác định khi:
@@ -464,26 +266,9 @@ Nguồn: https://suckhoedoisong.vn/
 
 
 
-WHO đã triệu tập họp Ủy ban Khẩn cấp đối với 2019-nCoV. Việc này nghĩa là thế nào?
-```WHO đang làm gì?
-Ủy ban Khẩn cấp là một cuộc họp với các chuyên gia quốc tế nhằm cung cấp tư vấn chuyên môn cho Tổng Giám đốc của WHO để quyết định một sự kiện y tế công cộng có đủ điều kiện công bố là một “Sự kiện y tế công cộng khẩn cấp gây quan ngại toàn cầu” (PHEIC) hay không.
-Thuật ngữ Sự kiện y tế công cộng khẩn cấp gây quan ngại toàn cầu (PHEIC) được định nghĩa trong Điều lệ Y tế Quốc tế (IHR) (2005) là một sự kiện được xác định khi:
-i. Gây ra mối nguy cơ về y tế công cộng cho các quốc gia khác thông qua việc lây lan dịch bệnh quốc tế; và
-ii. Cần sự đáp ứng quốc tế có điều phối
-Định nghĩa này phản ánh một tình huống: nghiêm trọng, bất thường hoặc ngoài dự đoán; mang theo những ảnh hưởng về y tế cộng cộng ra bên ngoài biên giới của quốc gia bị ảnh hưởng; và có thể đòi hỏi các hành động của quốc tế.
-Tổng Giám đốc đưa ra quyết định cuối cùng về Sự kiện y tế công cộng khẩn cấp gây quan ngại toàn cầu và các Khuyến nghị Tạm thời cho sự kiện đó, dựa trên tham vấn của Ủy ban Khẩn cấp, thông tin do các nhà chức trách quốc gia cung cấp, các chuyên gia khoa học và đánh giá nguy cơ đối với sức khỏe con người, nguy cơ lây lan quốc tế của bệnh và nguy cơ ảnh hưởng tới việc đi lại quốc tế.
-Từ trước tới nay đã có 5 sự kiện PHEIC được công bố kể từ năm 2006 khi Điều lệ Y tế Quốc tế - IHR(2005) có hiệu lực, bao gồm: đại dịch cúm H1N1 (2009), Bại liệt (2014), Ebola tại Tây Phi (2014), Zika (2016), và Ebola tại Cộng hòa Dân chủ Công gô (2019).
-Tổng giám đốc Tổ chức Y tế Thế giới đã triệu tập cuộc họp của Ủy ban Khẩn cấp về dịch bệnh do vi rút corona mới 2019 tại Trung Quốc và mộ số nước khác. Sau hai ngày họp, các thành viên của Ủy ban kết luận sự kiện này chưa đáp ứng điều kiện là một sự kiện y tế công cộng khẩn cấp gây quan ngại quốc tế (PHEIC).
-Ngày 27/1/2020 Tổ chức Y tế Thế giới (WHO) đánh giá nguy cơ bệnh nCoV rất cao ở Trung Quốc (ở cấp quốc gia) và nguy cơ cao ở cấp khu vực và toàn cầu.
-Nguồn: https://suckhoedoisong.vn/
-```WHO có một lịch sử lâu năm hỗ trợ các quốc gia trong việc phòng chống và ứng phó với các bệnh truyền nhiễm tại khu vực Tây Thái Bình Dương, bao gồm các dịch bệnh mới như cúm A(H7N9), A(H5N1) và SARS.
-WHO sẽ tiếp tục làm việc chặt chẽ với các quốc gia và hỗ trợ những nội dung cần thiết để có thể hiểu rõ hơn về loại vi rút mới này, cũng như việc giám sát, phát hiện các ca bệnh và giúp ngăn ngừa lây nhiễm.
-Nguồn: https://suckhoedoisong.vn/
-
-
-
 WHO đang làm gì?
 ```Các chuyên gia chăm sóc sức khỏe và các sở y tế nên làm gì?
+
 WHO có một lịch sử lâu năm hỗ trợ các quốc gia trong việc phòng chống và ứng phó với các bệnh truyền nhiễm tại khu vực Tây Thái Bình Dương, bao gồm các dịch bệnh mới như cúm A(H7N9), A(H5N1) và SARS.
 WHO sẽ tiếp tục làm việc chặt chẽ với các quốc gia và hỗ trợ những nội dung cần thiết để có thể hiểu rõ hơn về loại vi rút mới này, cũng như việc giám sát, phát hiện các ca bệnh và giúp ngăn ngừa lây nhiễm.
 Nguồn: https://suckhoedoisong.vn/
@@ -493,18 +278,9 @@ Nguồn: https://suckhoedoisong.vn/
 
 
 
-Các chuyên gia chăm sóc sức khỏe và các sở y tế nên làm gì?
-```Làm thế nào để bạn kiểm tra một người có nhiễm 2019-nCoV hay không?
-Về nguyên tắc điều trị bệnh, các ca bệnh nghi ngờ đều phải được khám ở khu riêng tại bệnh viện, được lấy bệnh phẩm đúng cách để làm xét nghiệm đặc hiệu để chẩn đoán xác định bệnh. Ca bệnh cần nhập viện theo dõi và cách ly hoàn toàn. Hiện nay chưa có thuốc điều trị đặc hiệu và chưa có vắc xin phòng bệnh vì vậy chủ yếu điều trị triệu chứng, phát hiện và xử trí kịp thời tình trạng suy hô hấp, suy thận và các tạng khác (nếu có).
-Ngày 16/1/2020, Bộ Y tế đã ban hành Quyết định số 125/QĐ-BYT về việc ban hành Hướng dẫn chẩn đoán và điều trị bệnh viêm phổi cấp do chủng vi rút Corona mới (nCoV) cho tất cả các cơ sở y tế trên toàn quốc.
-Nguồn: https://suckhoedoisong.vn/
-```Tại thời điểm này, các kiểm tra chẩn đoán chính xác 2019-nCoV chỉ có thể được tiến hành tại các cơ sở y tế được phép thực hiện xét nghiệm. Kỹ thuật xác định chủng 2019-nCov đó là kỹ thuật Real time RT - PCR với bệnh phẩm là dịch đường hô hấp, đờm, dịch nội khí quản được thu thập bằng tăm bông và bảo quản trong môi trường phù hợp. Trong trường hợp người mới nghi nhiễm virus Corona, các cơ sở y tế sẽ làm thủ tục lưu mẫu máu để chuyển đến các đơn vị được Bộ Y tế cho phép khẳng định.
-Nguồn: https://suckhoedoisong.vn/
-
-
-
 Làm thế nào để bạn kiểm tra một người có nhiễm 2019-nCoV hay không?
 ```Những khuyến cáo nào khi tôi có lịch trình đi lại, du lịch?
+
 Tại thời điểm này, các kiểm tra chẩn đoán chính xác 2019-nCoV chỉ có thể được tiến hành tại các cơ sở y tế được phép thực hiện xét nghiệm. Kỹ thuật xác định chủng 2019-nCov đó là kỹ thuật Real time RT - PCR với bệnh phẩm là dịch đường hô hấp, đờm, dịch nội khí quản được thu thập bằng tăm bông và bảo quản trong môi trường phù hợp. Trong trường hợp người mới nghi nhiễm virus Corona, các cơ sở y tế sẽ làm thủ tục lưu mẫu máu để chuyển đến các đơn vị được Bộ Y tế cho phép khẳng định.
 Nguồn: https://suckhoedoisong.vn/
 ```1. Tránh đi lại, du lịch nếu bạn đang có các triệu chứng sốt, ho hoặc khó thở
@@ -529,34 +305,9 @@ Nguồn: https://suckhoedoisong.vn/
 
 
 
-Những khuyến cáo nào khi tôi có lịch trình đi lại, du lịch?
-```Làm thế nào để kiểm tra một người có nhiễm nCoV?
-1. Tránh đi lại, du lịch nếu bạn đang có các triệu chứng sốt, ho hoặc khó thở
-- Cần đến ngay cơ sở y tế khi có các triệu chứng kể trên. 
-- Hãy chia sẻ lịch trình di chuyển của bạn với nhân viên y tế.
-2. Một số lưu ý để phòng, chống lây nhiễm nCoV
-- Tránh tiếp xúc quá gần với người bị sốt hay bị ho. 
-- Rửa sạch tay thường xuyên với xà phòng và nước sạch; hoặc các loại nước rửa tay có chứa cồn.
-- Tránh chạm tay vào mắt, mũi hay miệng
-3. Sử dụng khẩu trang y tế đúng cách
-- Khi ho hay hắt hơi, hãy che kín miệng và mũi bằng khăn giấy hoặc tay áo. Sau khi sử dụng khăn giấy, vứt khăn giấy vào thùng rác. Rửa sạch tay ngay lập tức.
-- Khi sử dụng khẩu trang, hãy chắc chắn rằng khẩu trang che kín miệng và mũi và tránh chạm vào khẩu trang khi đang sử dụng.
-- Nếu sử dụng các loại khẩu trang dùng 1 lần, sau khi sử dụng cần loại bỏ ngay lập tức vào thùng rác và rửa sạch tay sau khi bỏ khẩu trang.
-4. Chủ động tìm đến cơ sở y tế nếu bạn bị ốm
-- Nếu cảm thấy có dấu hiệu ốm khi đi lại, du lịch cần thông báo ngay cho nhân viên hàng không, đường sắt hoặc ô tô và tìm đến chăm sóc y tế càng sớm càng tốt
-- Hãy chia sẻ lịch trình di chuyển của bạn với nhân viên y tế
-5. Lưu ý quan trọng để phòng, chống lây nhiễm nCoV
-- Chỉ sử dụng các loại thực phẩm được nấu chín và đảm bảo an toàn thực phẩm
-- Không khạc nhổ bừa bãi nơi công cộng
-- Tránh tiếp xúc quá gần với các loại động vật nuôi hoặc hoang dã, dù là động vật sống, bị ốm hay đã chết.
-Nguồn: https://suckhoedoisong.vn/
-```Các kiểm tra chẩn đoán chính xác nCoV chỉ có thể được tiến hành tại các cơ sở y tế được phép thực hiện xét nghiệm. Kỹ thuật xác định chủng nCoV đó gồm kỹ thuật Giải trình tự gene thế hệ mới (Next Generation Sequencing - NGS) và kỹ thuật Real time RT - PCR với bệnh phẩm là dịch đường hô hấp, đờm, dịch nội khí quản được thu thập bằng tăm bông và bảo quản trong môi trường phù hợp. Trong trường hợp người mới nghi nhiễm virus corona, các cơ sở y tế sẽ làm thủ tục lưu mẫu máu để chuyển đến các đơn vị được Bộ Y tế cho phép khẳng định.
-Nguồn: http://thanhtra.com.vn/
-
-
-
 Làm thế nào để kiểm tra một người có nhiễm nCoV?
 ```Tôi có thể liên hệ thông báo thông tin bằng cách nào?
+
 Các kiểm tra chẩn đoán chính xác nCoV chỉ có thể được tiến hành tại các cơ sở y tế được phép thực hiện xét nghiệm. Kỹ thuật xác định chủng nCoV đó gồm kỹ thuật Giải trình tự gene thế hệ mới (Next Generation Sequencing - NGS) và kỹ thuật Real time RT - PCR với bệnh phẩm là dịch đường hô hấp, đờm, dịch nội khí quản được thu thập bằng tăm bông và bảo quản trong môi trường phù hợp. Trong trường hợp người mới nghi nhiễm virus corona, các cơ sở y tế sẽ làm thủ tục lưu mẫu máu để chuyển đến các đơn vị được Bộ Y tế cho phép khẳng định.
 Nguồn: http://thanhtra.com.vn/
 ```Bộ Y tế công bố 2 số điện thoại đường dây nóng cung cấp thông tin về bệnh viêm đường hô hấp cấp do nCoV 2019: 19003228 và 1900 9095.
@@ -587,57 +338,9 @@ Nguồn: http://thanhtra.com.vn/
 
 
 
-Tôi có thể liên hệ thông báo thông tin bằng cách nào?
-```Những khuyến cáo nào khi tôi có lịch trình đi lại, du lịch?
-Bộ Y tế công bố 2 số điện thoại đường dây nóng cung cấp thông tin về bệnh viêm đường hô hấp cấp do nCoV 2019: 19003228 và 1900 9095.
-Cùng với đó, 21 đường dây nóng của các Bệnh viện có cơ sở theo dõi và điều trị cách ly các bệnh nhân nghi nhiễm và nhiễm nCoV:
-Bệnh viện Bạch Mai: 0969.851.616
-Bệnh viện Nhiệt đới Trung ương: 0969.241.616
-Bệnh viện E: 0912.168.887
-Bệnh viện Nhi trung ương: 0372.884.712
-Bệnh viện Phổi trung ương: 0967.941.616
-Bệnh viện Việt Nam - Thụy Điển Uông Bí: 0966.681.313
-Bệnh viện Đa khoa trung ương Thái Nguyên: 0913.394.495
-Bệnh viện Trung ương Huế: 0965.301.212
-Bệnh viện Chợ Rẫy: 0969.871.010
-Bệnh viện Đa khoa trung ương Cần Thơ: 0907.736.736
-Bệnh viện Xanh Pôn Hà Nội: 0904.138.502
-Bệnh viện Vinmec Hà Nội: 0934.472.768
-Bệnh viện Đà Nẵng: 0903.583.881 
-Bệnh viện Nhiệt đới TP.HCM: 0967.341.010 
-Bệnh viện Nhi đồng 1: 0913.117.965
-Bệnh viện Nhi đồng 2: 0798.429.841
-Bệnh viện Đa khoa tỉnh Đồng Nai: 0819.634.807
-Bệnh viện Nhiệt đới Khánh Hòa: 0913.464.257
-Bệnh viện tỉnh Khánh Hòa: 0965.371.515
-Bệnh viện tỉnh Thái Bình: 0989.506.515
-Bệnh viện tỉnh Lạng Sơn: 0396.802.226
-Hoặc có thể liên hệ trực tiếp qua các đường dây nóng của các cơ sở y tế tại địa phương.
-Nguồn: http://thanhtra.com.vn/
-```1. Tránh đi lại, du lịch nếu bạn đang có các triệu chứng sốt, ho hoặc khó thở
-- Cần đến ngay cơ sở y tế khi có các triệu chứng kể trên.
-- Hãy chia sẻ lịch trình di chuyển của bạn với nhân viên y tế.
-2. Một số lưu ý để phòng, chống lây nhiễm nCoV
-- Tránh tiếp xúc quá gần với người bị sốt hay bị ho.
-- Rửa sạch tay thường xuyên với xà phòng và nước sạch; hoặc các loại nước rửa tay có chứa cồn.
-- Tránh chạm tay vào mắt, mũi hay miệng.
-3. Sử dụng khẩu trang đúng cách
-- Khi ho hay hắt hơi, hãy che kín miệng và mũi bằng khăn giấy hoặc tay áo. Sau khi sử dụng khăn giấy, vứt khăn giấy vào thùng rác. Rửa sạch tay ngay lập tức.
-- Khi sử dụng khẩu trang, hãy chắc chắn rằng khẩu trang che kín miệng và mũi và tránh chạm vào khẩu trang khi đang sử dụng.
-- Nếu sử dụng các loại khẩu trang dùng 01 lần, sau khi sử dụng cần loại bỏ ngay lập tức vào thùng rác và rửa sạch tay sau khi bỏ khẩu trang.
-4. Chủ động tìm đến cơ sở y tế nếu bạn bị ốm
-- Nếu cảm thấy có dấu hiệu ốm khi đi lại, du lịch cần thông báo ngay cho nhân viên hàng không, đường sắt hoặc ô tô và tìm đến chăm sóc y tế càng sớm càng tốt.
-- Hãy chia sẻ lịch trình di chuyển của bạn với nhân viên y tế.
-5. Lưu ý quan trọng để phòng, chống lây nhiễm nCoV
-- Chỉ sử dụng các loại thực phẩm được nấu chín và đảm bảo an toàn thực phẩm.
-- Không khạc nhổ bừa bãi nơi công cộng.
-- Tránh tiếp xúc quá gần với các loại động vật nuôi hoặc hoang dã, dù là động vật sống, bị ốm hay đã chết.
-Nguồn: http://thanhtra.com.vn/
-
-
-
 Những khuyến cáo nào khi tôi có lịch trình đi lại, du lịch?
 ```Làm thế nào giúp tôi có thể bảo vệ bản thân?
+
 1. Tránh đi lại, du lịch nếu bạn đang có các triệu chứng sốt, ho hoặc khó thở
 - Cần đến ngay cơ sở y tế khi có các triệu chứng kể trên.
 - Hãy chia sẻ lịch trình di chuyển của bạn với nhân viên y tế.
@@ -682,37 +385,9 @@ Nguồn: http://thanhtra.com.vn/
 
 
 
-Làm thế nào giúp tôi có thể bảo vệ bản thân?
-```Nhóm độ tuổi nào dễ bị mắc chủng mới của virus corona?
-Để chủ động phòng chống bệnh viêm đường hô hấp cấp do virus corona nCoV, Bộ Y tế khuyến cáo người dân và cộng đồng thực hiện tốt các biện pháp sau:
-1. Người dân chủ động thực hiện các biện pháp phòng bệnh
-- Hạn chế tiếp xúc trực tiếp với người bị bệnh đường hô hấp cấp tính (sốt, ho, khó thở); khi cần thiết phải đeo khẩu trang y tế đúng cách và giữ khoảng cách trên 02 mét khi tiếp xúc.
-- Người có các triệu chứng sốt, ho, khó thở không nên đi du lịch hoặc đến nơi tập trung đông người. Thông báo ngay cho cơ quan y tế khi có các triệu chứng kể trên.
-- Rửa tay thường xuyên với xà phòng và nước sạch trong ít nhất 30 giây. Trong trường hợp không có xà phòng và nước sạch thì dùng các sản phẩm vệ sinh tay có chứa cồn (ít nhất 60% cồn); súc miệng, họng bằng nước muối hoặc nước xúc miệng, tránh đưa tay lên mắt, mũi, miệng để phòng lây nhiễm bệnh.
-- Cần che miệng và mũi khi ho hoặc hắt hơi, tốt nhất bằng khăn vải hoặc khăn tay, hoặc ống tay áo để làm giảm phát tán các dịch tiết đường hô hấp. Không khạc nhổ bừa bãi nơi công cộng.
-- Chỉ sử dụng các thực phẩm đã được nấu chín.
-- Không đi du lịch đến các vùng có dịch bệnh. Hạn chế đi đến các nơi tập trung đông người. Trong trường hợp đi đến các nơi tập trung đông người cần thực hiện các biện pháp bảo vệ cá nhân như sử dụng khẩu trang, rủa tay với xà phòng…
-- Tránh mua bán, tiếp xúc với các loại động vật nuôi hoặc hoang dã.
-- Giữ ấm cơ thể, tăng cường sức khỏe bằng ăn uống, nghỉ ngơi, sinh hoạt hợp lý, luyện tập thể thao.
-- Tăng cường thông khí khu vực nhà ở bằng cách mở các cửa ra vào và cửa sổ, hạn chế sử dụng điều hòa. Thường xuyên lau nền nhà, tay nắm cửa và bề mặt các đồ vật trong nhà bằng các chất tẩy rửa thông thường, như xà phòng và các dung dịch khử khuẩn thông thường khác.
-- Nếu có dấu hiệu sốt, ho, khó thở phải đeo khẩu trang bảo vệ, thông báo ngay cho cơ sở y tế gần nhất để được tư vấn, khám, điều trị kịp thời. Gọi điện cho cơ sở y tế trước khi đến để thông tin về các triệu chứng và lịch trình đã di chuyển trong thời gian gần đây để có biện pháp hỗ trợ đúng.
-
-2. Những người từ Trung Quốc trở về
-- Những người từ Trung Quốc trở về Việt Nam cần tự cách ly tại nhà và theo dõi sức khỏe trong vòng 14 ngày. Cần khai báo với cơ quan y tế sở tại nơi gần nhất để được hỗ trợ khi cần thiết.
-- Nếu có dấu hiệu sốt, ho, khó thở phải đeo khẩu trang bảo vệ, thông báo ngay đến cơ sở y tế gần nhất để được tư vấn, khám, điều trị kịp thời. Gọi điện cho cơ sở y tế trước khi đến để thông tin về các triệu chứng và lịch trình đã di chuyển trong thời gian gần đây để có biện pháp hỗ trợ đúng.
-
-3. Những người đi đến Trung Quốc
-- Nếu không có việc cần thiết hoặc công việc đột xuất, không nên đến Trung Quốc trong thời gian xảy ra dịch bệnh viêm đường hô hấp cấp do virus corona nCoV.
-- Trường hợp bắt buộc, phải hạn chế ra khỏi nhà, thường xuyên áp dụng các biện pháp phòng bệnh theo khuyến cáo của Bộ Y tế.
-- Nếu có dấu hiệu sốt, ho, khó thở phải đeo khẩu trang, thông báo ngay đến cơ sở y tế gần nhất để được tư vấn, khám, điều trị kịp thời. Gọi điện cho cơ sở y tế trước khi đến để thông tin về các triệu chứng và lịch trình đã di chuyển trong thời gian gần đây để có biện pháp hỗ trợ đúng.
-Nguồn: http://thanhtra.com.vn/
-```Người dân ở mọi lứa tuổi đều có thể bị mắc chủng mới của virus corona. Tuy nhiên, người cao tuổi, người có bệnh mãn tính (như hen phế quản, tiểu đường, bệnh tim mạch,…) sẽ dễ bị mắc và bệnh thường nặng hơn.
-Nguồn: http://thanhtra.com.vn/
-
-
-
 Nhóm độ tuổi nào dễ bị mắc chủng mới của virus corona?
 ```Đã có loại thuốc đặc hiệu nào để phòng và điều trị bệnh viêm đường hô hấp cấp do chủng mới virus corona nCoV gây ra chưa?
+
 Người dân ở mọi lứa tuổi đều có thể bị mắc chủng mới của virus corona. Tuy nhiên, người cao tuổi, người có bệnh mãn tính (như hen phế quản, tiểu đường, bệnh tim mạch,…) sẽ dễ bị mắc và bệnh thường nặng hơn.
 Nguồn: http://thanhtra.com.vn/
 ```Tại thời điểm này, chưa có loại thuốc đặc hiệu nào để phòng và điều trị bệnh viêm đường hô hấp cấp do chủng mới của virus corona nCoV gây ra. Những người bệnh hiện nay được điều trị giảm các triệu chứng, các trường hợp bệnh nặng sẽ được áp dụng các phương pháp điều trị hỗ trợ tối ưu nhất. Một số phương pháp điều trị đặc hiệu đang được nghiên cứu, thực hiện trong điều trị lâm sàng cho các bệnh nhân.
@@ -720,29 +395,9 @@ Nguồn: http://thanhtra.com.vn/
 
 
 
-Đã có loại thuốc đặc hiệu nào để phòng và điều trị bệnh viêm đường hô hấp cấp do chủng mới virus corona nCoV gây ra chưa?
-```Làm thế nào giúp tôi có thể bảo vệ bản thân, giảm nguy cơ lây nhiễm
-Tại thời điểm này, chưa có loại thuốc đặc hiệu nào để phòng và điều trị bệnh viêm đường hô hấp cấp do chủng mới của virus corona nCoV gây ra. Những người bệnh hiện nay được điều trị giảm các triệu chứng, các trường hợp bệnh nặng sẽ được áp dụng các phương pháp điều trị hỗ trợ tối ưu nhất. Một số phương pháp điều trị đặc hiệu đang được nghiên cứu, thực hiện trong điều trị lâm sàng cho các bệnh nhân.
-Nguồn: http://thanhtra.com.vn/
-``` Cần giữ tay và đường hô hấp sạch sẽ. Khi chúng ta đang bước vào dịp lễ hội, du lịch cuối năm, bao gồm cả Tết, chúng tôi nhắc nhở mọi người cần thực hiện các biện pháp bảo vệ sau.
-
-· Rửa tay bằng xà phòng và nước, hoặc chà (xoa) tay bằng cồn khô;
-· Che miệng và mũi bằng khẩu trang y tế, khăn giấy, ống tay áo hoặc lấy khuỷu tay che khi ho hoặc hắt hơi;
-· Tránh tiếp xúc gần mà không có mặc đồ bảo hộ với bất kỳ ai có các triệu chứng cảm lạnh hoặc giống như cúm; đi khám bệnh nếu bạn bị sốt, ho và khó thở;
-
-Bộ Y tế khuyến cáo người dân và cộng đồng thực hiện tốt các biện pháp:
-
-1. Hạn chế tiếp xúc trực tiếp với người bị bệnh viêm đường hô hấp cấp tính; khi cần thiết phải tiếp xúc với người bệnh phải đeo khẩu trang y tế đúng cách và giữ khoảng cách khi tiếp xúc.
-2. Giữ ấm cơ thể, vệ sinh cá nhân, rửa tay thường xuyên bằng xà phòng, súc họng bằng nước sát khuẩn miệng để phòng bệnh viêm phổi.
-3. Cần che miệng và mũi khi ho hoặc hắt hơi, tốt nhất bằng khăn vải hoặc khăn tay để làm giảm phát tán các dịch tiết đường hô hấp.
-4. Những người trở về từ thành phố Vũ Hán, tỉnh Hồ Bắc, Trung Quốc hoặc các tỉnh/ thành phố khác của Trung Quốc đang có dịch hoặc có tiếp xúc gần với người mắc bệnh viêm đường hô hấp cấp tính do nCoV trong vòng 14 ngày nếu có dấu hiệu sốt, ho, khó thở, cần đến ngay cơ sở y tế gần nhất để được tư vấn, khám, điều trị kịp thời.
-5. Khi phát hiện dịch bệnh cần thông tin, cho cơ quan y tế, chính quyền địa phương để giám sát, xử lý, ứng phó với dịch bệnh không để dịch bùng phát, lây lan.
-Nguồn: https://suckhoedoisong.vn/
-
-
-
 Làm thế nào giúp tôi có thể bảo vệ bản thân, giảm nguy cơ lây nhiễm
 ```Thú cưng có lan truyền virus nCoV không?
+
  Cần giữ tay và đường hô hấp sạch sẽ. Khi chúng ta đang bước vào dịp lễ hội, du lịch cuối năm, bao gồm cả Tết, chúng tôi nhắc nhở mọi người cần thực hiện các biện pháp bảo vệ sau.
 
 · Rửa tay bằng xà phòng và nước, hoặc chà (xoa) tay bằng cồn khô;
@@ -764,20 +419,9 @@ Nguồn: https://suckhoedoisong.vn/
 
 
 
-Thú cưng có lan truyền virus nCoV không?
-```Cơ chế nCoV lây lan như thế nào?
-Đến bây giờ, chưa có bằng chứng các thú cưng nuôi trong nhà (như chó, mèo...) nhiễm virus corona nCoV 2019.
-Tuy nhiên, bạn vẫn nên rửa tay với xà phòng và nước chảy sau khi tiếp xúc với các loại vật nuôi này. Bỏi vì, đó là cách bảo vệ bạn khỏi các vi khuẩn như E.Coli, Samonella thường lây từ vật nuôi sang người.
-WHO KHUYẾN CÁO người dân mọi lứa tuổi thực hiện các hành động bảo vệ bản thân trước nCoV, như rửa tay, đeo khẩu trang, giữ vệ sinh đường hô hấp...
-Nguồn: https://suckhoedoisong.vn/
-```Vi-rút này ban đầu xuất hiện từ nguồn động vật nhưng có khả năng lây lan từ người sang người. Điều quan trọng cần lưu ý là sự lây lan từ người sang người có thể xảy ra liên tục. Ở người, virus lây từ người này sang người kia thông qua tiếp xúc với dịch cơ thể của người bệnh. Tùy thuộc vào mức độ lây lan của chủng virus, việc ho, hắt hơi hay bắt tay có thể khiến người xung quanh bị phơi nhiễm.
-Virus cũng có thể bị lây từ việc ai đó chạm tay vào một vật mà người bệnh chạm vào, sau đó đưa lên miệng, mũi, mắt họ. Những người chăm sóc bệnh nhân cũng có thể bị phơi nhiễm virus khi xử lý các chất thải của người bệnh.
-Nguồn: https://suckhoedoisong.vn/
-
-
-
 Cơ chế nCoV lây lan như thế nào?
 ```nCoV có giống với vi rút MERS-CoV hoặc SARS không?
+
 Vi-rút này ban đầu xuất hiện từ nguồn động vật nhưng có khả năng lây lan từ người sang người. Điều quan trọng cần lưu ý là sự lây lan từ người sang người có thể xảy ra liên tục. Ở người, virus lây từ người này sang người kia thông qua tiếp xúc với dịch cơ thể của người bệnh. Tùy thuộc vào mức độ lây lan của chủng virus, việc ho, hắt hơi hay bắt tay có thể khiến người xung quanh bị phơi nhiễm.
 Virus cũng có thể bị lây từ việc ai đó chạm tay vào một vật mà người bệnh chạm vào, sau đó đưa lên miệng, mũi, mắt họ. Những người chăm sóc bệnh nhân cũng có thể bị phơi nhiễm virus khi xử lý các chất thải của người bệnh.
 Nguồn: https://suckhoedoisong.vn/
@@ -786,18 +430,9 @@ Nguồn: https://suckhoedoisong.vn/
 
 
 
-nCoV có giống với vi rút MERS-CoV hoặc SARS không?
-```Tôi hiểu nCoV là một loại vi rút Corona. Tôi cảm thấy bối rối khi nghe những thông tin về vi rút Corona. Chúng từ đâu đến?
-Không. Coronavirus là một họ virus lớn, một số virus gây bệnh ở người và virus lây truyền giữa các loài động vật, bao gồm lạc đà, mèo và dơi. 2019-nCoV mới xuất hiện gần đây không giống với coronavirus gây ra Hội chứng hô hấp Trung Đông (MERS) hoặc coronavirus gây ra Hội chứng hô hấp cấp tính nặng (SARS). Tuy nhiên, các phân tích di truyền cho thấy virus này xuất hiện từ một loại virus liên quan đến SARS. Hiện nay, những cuộc điều tra đang diễn ra để tìm hiểu thêm.
-Nguồn: https://suckhoedoisong.vn/
-```Vi rút Corona (CoV) là một họ vi rút lớn có thể gây bệnh từ cảm lạnh thông thường đến các bệnh nặng hơn, như Hội chứng hô hấp Trung Đông (MERS-CoV) và Hội chứng hô hấp cấp tính nặng (SARS-CoV). Một loại vi rút Corona mới, chẳng hạn như 2019-nCoV, là một chủng mới mà trước đây chưa thấy ở người.
-Các loại vi rút Corona gây bệnh lây truyền từ động vật sang người, nghĩa là nó có thể lây lan từ động vật sang người. Các cuộc điều tra trước đây nghi ngờ rằng SARS-CoV được truyền từ dơi sang cầy hương rồi sang người, và MERS-CoV truyền từ lạc đà một bướu sang người. Một số vi rút corona được biết đến lưu hành ở động vật nhưng chưa gây bệnh ở người.
-Nguồn: https://suckhoedoisong.vn/
-
-
-
 Tôi hiểu nCoV là một loại vi rút Corona. Tôi cảm thấy bối rối khi nghe những thông tin về vi rút Corona. Chúng từ đâu đến?
 ```nCoV là gì? Người bị nhiễm nCoV có nghiêm trọng không? Các triệu chứng của bệnh là gì?
+
 Vi rút Corona (CoV) là một họ vi rút lớn có thể gây bệnh từ cảm lạnh thông thường đến các bệnh nặng hơn, như Hội chứng hô hấp Trung Đông (MERS-CoV) và Hội chứng hô hấp cấp tính nặng (SARS-CoV). Một loại vi rút Corona mới, chẳng hạn như 2019-nCoV, là một chủng mới mà trước đây chưa thấy ở người.
 Các loại vi rút Corona gây bệnh lây truyền từ động vật sang người, nghĩa là nó có thể lây lan từ động vật sang người. Các cuộc điều tra trước đây nghi ngờ rằng SARS-CoV được truyền từ dơi sang cầy hương rồi sang người, và MERS-CoV truyền từ lạc đà một bướu sang người. Một số vi rút corona được biết đến lưu hành ở động vật nhưng chưa gây bệnh ở người.
 Nguồn: https://suckhoedoisong.vn/
