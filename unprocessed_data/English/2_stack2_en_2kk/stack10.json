@@ -1,0 +1,122 @@
+[
+  {
+    "_id": {
+      "$oid": "5f547141cf00b822784679cd"
+    },
+    "source": "USA Today",
+    "url": "https://www.usatoday.com/story/news/health/2020/03/12/coronavirus-reader-questions-answered-symptoms-testing-elderly/5012457002/",
+    "question": "How likely are you to die from the virus?\n",
+    "answer": "Of the more than 586,000 people who have been infected worldwide, more than 26,000 have died. That's a death rate of about 4.6%. The WHO has previously estimated the rate at about 3.4%.\n\nThe death rate, however, varies widely based on age, health and geographic location. People who are older or who have preexisting conditions are at higher risk of severe illness.",
+    "wrong_answer": "\"It’s not the main mode of transmission. There's probably some component ofairborne, but I don’t think secondhand smoke would be a compounding factor,\"said Tania Elliott, clinical instructor of infectious diseases at NYU Langone.If the smoke irritates your lungs and causes you to cough, that poses agreater risk of transmission since the virus is thought to mainly spreadthrough respiratory droplets when someone coughs or sneezes, Elliot said.Smokers are likely to be more vulnerable to COVID-19 as the act of smokingmeans that fingers and possibly dirty cigarettes are in contact with lips,[according to the WHO](https://www.who.int/news-room/q-a-detail/q-a-on-smoking-and-covid-19). Smokers may also already have lung disease or reducedlung capacity which would greatly increase risk of serious illness, the WHOsays.While data is still evolving about how long the virus may remain alive, [arecent study](https://www.usatoday.com/story/news/health/2020/03/18/heres-how-long-coronavirus-can-live-surfaces-and-air-study/2863287001/) found thatviable virus could be detected up to three hours later in the air."
+  },
+  {
+    "_id": {
+      "$oid": "5f547141cf00b822784679ce"
+    },
+    "source": "USA Today",
+    "url": "https://www.usatoday.com/story/news/health/2020/03/12/coronavirus-reader-questions-answered-symptoms-testing-elderly/5012457002/",
+    "question": "Can someone get the coronavirus more than once?",
+    "answer": "Scientists aren't sure yet. For many viruses, including the MERS virus, patients are unlikely to be re-infected shortly after they recover because a protective antibody is generated in those who are infected. But scientists still need to do more research to determine if this is also the case with COVID-19 and how long those antibodies may last.\n\n\"However, in certain individuals, the antibody cannot last that long. For many patients who have been cured, there is a likelihood of relapse,\" said Li QinGyuan, director of pneumonia prevention and treatment at China Japan Friendship Hospital in Beijing.\n\nPoland agreed, saying the chance of reinfection is \"very likely.\"",
+    "wrong_answer": "No, the presence of the coronavirus would not turn a flu test positive.However, it's possible to have both the coronavirus and the flu at the sametime. In that case, the flu test would be positive.The opposite is also true: Presence of the flu would not result in a positivecoronavirus test. It's important to note that, even if someone tests negativefor the coronavirus, they still may be infected with the coronavirus."
+  },
+  {
+    "_id": {
+      "$oid": "5f547141cf00b822784679cf"
+    },
+    "source": "USA Today",
+    "url": "https://www.usatoday.com/story/news/health/2020/03/12/coronavirus-reader-questions-answered-symptoms-testing-elderly/5012457002/",
+    "question": "Are infected people able to transmit the virus to their pets and visa versa?",
+    "answer": "No, there is no evidence that pets such as cats and dogs have been infected or could spread the virus that causes COVID-19, according to the WHO.\n\nLast month, the pet dog of a coronavirus patient in Hong Kong tested \"weak\" positive for COVID-19 and was put in quarantine. Scientists concluded that pet cats and dogs can test positive for low levels of the pathogen if they catch it from their owners, but pets can't get sick from the virus.",
+    "wrong_answer": "Yes, a person could have both. This was the case for one patient in China, according to the U.S. Centers for Disease Control and Prevention. The 69-year-old man in Wuhan had both SARS-CoV-2 and influenza A virus. Doctors initially diagnosed the man with the flu and later diagnosed the coronavirus.\n\nDoctors studying the patient said the case \"suggests that COVID-19 might be underdiagnosed because of false-negative tests for upper respiratory specimens or co-infection with other respiratory viruses. Broader viral testing might be needed.\"\n\nPeter Hotez, dean of the National School of Tropical Medicine at Baylor College of Medicine, agrees.\n\n\"I don’t like that people are doing flu tests and saying therefore it’s not coronavirus,\" Hotez said. \"Traditionally, for flu, we know it’s possible to get other co-infectious with other viruses.\""
+  },
+  {
+    "_id": {
+      "$oid": "5f547141cf00b822784679d0"
+    },
+    "source": "USA Today",
+    "url": "https://www.usatoday.com/story/news/health/2020/03/12/coronavirus-reader-questions-answered-symptoms-testing-elderly/5012457002/",
+    "question": "How long does the virus live on an object like a dollar bill?",
+    "answer": "Depending on the type of surface, the virus can stay on surfaces for a few hours or up to several days, according to the WHO. A recent study by scientists in the U.S. found that viable virus could be detected up to three hours later in the air, up to four hours on copper, up to 24 hours on cardboard and up to two to three days on plastic and stainless steel. \n\nHowever, a subsequent report from the CDC found that genetic material from the virus can live on surfaces for more than two weeks. The CDC found traces of the virus' RNA, not the coronavirus itself, on surfaces in the cabins of both symptomatic and asymptomatic infected passengers on the Diamond Princess cruise ship – 17 days after passengers had left the cabins.\n\nIt's possible that you can become infected if you touch your face after touching a surface or object that has the virus on it, according to the CDC. But scientists don't think surfaces are the main way that the virus spreads; the most common form of infection is from respiratory droplets spread by a person's cough or sneeze, the CDC reports.\n\nMeanwhile, the WHO says it is very unlikely that the virus will persist on a surface after being moved, traveled and exposed to different conditions and temperatures. That means the virus cannot spread through goods manufactured in China or any country reporting coronavirus cases.\n\nAt the same time, the WHO is reportedly encouraging people to use as many digital payment options as possible. Viruses can survive on hard surfaces like coins for days in some cases. U.S dollars, a blend of fabric and paper, are harder for viruses to stick to.",
+    "wrong_answer": "If you have symptoms and want to get tested, the CDC recommends calling your state or local health department or a medical provider.\r\n\r\nNot sure if you should get tested? The CDC website features a \"self-checker\" to help you make decisions about seeking medical care. The feature is not intended for the diagnosis or treatment of COVID-19 and is intended only for people in the U.S."
+  },
+  {
+    "_id": {
+      "$oid": "5f547141cf00b822784679d1"
+    },
+    "source": "USA Today",
+    "url": "https://www.usatoday.com/story/news/health/2020/03/12/coronavirus-reader-questions-answered-symptoms-testing-elderly/5012457002/",
+    "question": "What is being given to treat the coronavirus once you’ve become infected?",
+    "answer": "There is no vaccine for the new virus and no specific antiviral medicine to prevent or treat COVID-19, so treatment consists of supportive care to help relieve symptoms and, for severe cases, care to support vital organ functions, the CDC says.\n\nAbout 80% of people recover from the disease without needing special treatment, according to the WHO. For most patients, that means drinking plenty of fluids and resting, just as you would for the cold or flu.",
+    "wrong_answer": "The White House is asking Americans to stay home as much as possible to slowthe spread of the virus, and some states and local governments have [issued\"stay home\" and \"shelter-in-place\"orders](https://www.usatoday.com/story/news/nation/2020/03/21/coronavirus-lockdown-orders-shelter-place-stay-home-state-list/2891193001/).\"I don’t think now’s the time to do it,\" Elliott said. \"If you have a housesomewhere else, that's fine. But I wouldn’t recommend being in hotels orcrowded public settings. If you want take a road trip and go camping, there'srisk associated with that.\""
+  },
+  {
+    "_id": {
+      "$oid": "5f547141cf00b822784679d2"
+    },
+    "source": "USA Today",
+    "url": "https://www.usatoday.com/story/news/health/2020/03/12/coronavirus-reader-questions-answered-symptoms-testing-elderly/5012457002/",
+    "question": "How many children have been diagnosed with the virus? How many of them have died?",
+    "answer": "Among the more than 4,000 cases in the U.S. as of March 16, only 5% were people aged 0–19 years, according to the CDC. Just 2%–3% of cases in that age group had to be hospitalized, and none were in the ICU.\n\nThis week, however, health officials reported that a 17-year-old teen in New Orleans died after contracting the virus. And a 2-month-old in Nashville who tested positive for the virus could be the youngest patient in the nation, officials say. In China, at least one two-day-old infant had been infected, according to a WHO study.",
+    "wrong_answer": "If you have symptoms and want to get tested, the CDC recommends calling your state or local health department or a medical provider.\r\n\r\nNot sure if you should get tested? The CDC website features a \"self-checker\" to help you make decisions about seeking medical care. The feature is not intended for the diagnosis or treatment of COVID-19 and is intended only for people in the U.S."
+  },
+  {
+    "_id": {
+      "$oid": "5f547141cf00b822784679d3"
+    },
+    "source": "USA Today",
+    "url": "https://www.usatoday.com/story/news/health/2020/03/12/coronavirus-reader-questions-answered-symptoms-testing-elderly/5012457002/",
+    "question": "What are dangers to pregnant women?\n",
+    "answer": "It's unclear how the coronavirus may affect pregnant women. In general, pregnant women may experience changes to their body that could make them more susceptible to viral respiratory infections, according to the CDC.\n\nIn the case of SARS and MERS, pregnant women were more at risk for severe illness, and some experienced miscarriage and stillbirth, according to the CDC.\n\nThere is no evidence that the virus can be transmitted from an infected mother to her fetus, and, in a limited number of recent cases of infants born to mothers with COVID-19, none of the infants have tested positive for the virus, the CDC said.",
+    "wrong_answer": "There is no vaccine for the new virus and no specific antiviral medicine to prevent or treat COVID-19, so treatment consists of supportive care to help relieve symptoms and, for severe cases, care to support vital organ functions, the CDC says.\r\n\r\nAbout 80% of people recover from the disease without needing special treatment, according to the WHO. For most patients, that means drinking plenty of fluids and resting, just as you would for the cold or flu."
+  },
+  {
+    "_id": {
+      "$oid": "5f547141cf00b822784679d4"
+    },
+    "source": "USA Today",
+    "url": "https://www.usatoday.com/story/news/health/2020/03/12/coronavirus-reader-questions-answered-symptoms-testing-elderly/5012457002/",
+    "question": "Is the presence of a fever always the first symptom of a coronavirus infection? Is there any value in taking your temperature every day?",
+    "answer": "Symptoms of COVID-19 resemble the flu and include fever, cough and shortness of breath, according to the CDC. Some people also develop aches and pains, nasal congestion, runny nose, sore throat or diarrhea.\n\nWhile fever is one of the most common symptoms, it's not productive to take your temperature every day, Poland said.\n\n\"That's like taking your blood pressure four times a day for no particular good reason. I’d probably not do that unless there's a reason to do it. For example, if you felt feverish, or if you traveled to a high-risk area, or if you had contact with somebody (infected),\" he said.",
+    "wrong_answer": "No, for several reasons, says Peter Hotez, dean of the National School ofTropical Medicine at Baylor College of Medicine.While a protective antibody is generated in those who are infected,[scientists are not yetsure](https://www.usatoday.com/story/news/health/2020/03/12/coronavirus-reader-questions-answered-symptoms-testing-elderly/5012457002/) whether thatimmunity will last for a short period of time, for years or for life. Some saythe possibility of reinfection is very likely.Moreover, a [new federal health reportsays](https://www.usatoday.com/story/news/health/2020/03/19/coronavirus-illnesses-can-serious-young-adults-cdc-report/2874271001/) Americans of allages have faced serious health complications amid the outbreak. Data from theCDC show that among the roughly 12% of COVID-19 cases in the U.S. known toneed hospitalizations, about 1 in 5 were among people ages 20 to 44. Anywherefrom 14% to 21% of adults ages 20 to 44 with COVID-19 have been hospitalized,the CDC data estimates. Two to 4% of cases led to ICU admissions, and lessthan 1% were fatal.Finally, it's important to avoid getting and spreading the virus. While theyoung may not be the most at risk, they're carrying the disease to those whoare more vulnerable, such as older people and those with underlyingconditions. Dr. Deborah Birx, a member of the White House coronavirus taskforce, on Wednesday urged \"the millennial generation\" to take specialprecautions. \"You have the potential to spread it,\" she said."
+  },
+  {
+    "_id": {
+      "$oid": "5f547141cf00b822784679d5"
+    },
+    "source": "USA Today",
+    "url": "https://www.usatoday.com/story/news/health/2020/03/12/coronavirus-reader-questions-answered-symptoms-testing-elderly/5012457002/",
+    "question": "How can I know if I have the coronavirus and should go for a test?",
+    "answer": "If you have symptoms and want to get tested, the CDC recommends calling your state or local health department or a medical provider.\n\nNot sure if you should get tested? The CDC website features a \"self-checker\" to help you make decisions about seeking medical care. The feature is not intended for the diagnosis or treatment of COVID-19 and is intended only for people in the U.S.",
+    "wrong_answer": "No. While shortness of breath is among the most common symptoms of the virus,according to the CDC, that diagnosis does not necessarily involve holding alarge breath for 10 seconds. Medically known as dyspnea, shortness of breathis often described as \"an intense tightening in the chest, air hunger,difficulty breathing, breathlessness or a feeling of suffocation,\" accordingto the Mayo Clinic.If you think you may be sick, call your doctor and [follow CDCguidance](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html)."
+  },
+  {
+    "_id": {
+      "$oid": "5f547141cf00b822784679d6"
+    },
+    "source": "USA Today",
+    "url": "https://www.usatoday.com/story/news/health/2020/03/12/coronavirus-reader-questions-answered-symptoms-testing-elderly/5012457002/",
+    "question": "Does testing positive mean that I have the virus and that I will develop symptoms?",
+    "answer": "Yes, testing positive means that you have the virus, but it does not mean that you will develop symptoms. Some people who have the virus don't have any symptoms at all.\n\nAt the same time, testing negative does not necessarily mean that you don't have the virus.",
+    "wrong_answer": "You should take precaution with any containers, Elliott says. \"The plasticgrocery bags I’d throw out right away, wash your hands and then clean yourfood. Chances (of infection) are low,\" she said. \"But better yet, bring yourown bags! It’s better for the environment anyway.\""
+  },
+  {
+    "_id": {
+      "$oid": "5f547141cf00b822784679d7"
+    },
+    "source": "USA Today",
+    "url": "https://www.usatoday.com/story/news/health/2020/03/12/coronavirus-reader-questions-answered-symptoms-testing-elderly/5012457002/",
+    "question": "There has been a Hong Kong flu, a Swine flu, H1N1, SARS, MERS, Ebola, Zika and other global health threats since the 1960s. How is the coronavirus different?",
+    "answer": "The current outbreak is the world's first pandemic caused by a coronavirus, a family of virsuses that includes the COVID-19 virus, according to the head of the WHO.\n\nWhile more people in the U.S. were infected by and died after contracting the flu in 1968 and 2009, the new coronavirus has infected and killed more people in the U.S. than did SARS, MERS, Ebola or Zika.\n\nBy comparison, the 1968 \"Hong Kong flu\" pandemic was caused by an influenza A virus and killed an estimated 1 million people worldwide, with about 100,000 deaths in the U.S., according to the CDC. The 2009 \"swine flu\" pandemic was caused by an H1N1 subtype of the influenza A virus and killed at least 151,000 people worldwide during the first year the virus circulated, with more than 12,000 deaths in the U.S., according to the CDC. ",
+    "wrong_answer": "Vaccines against pneumonia, such as pneumococcal vaccine and Haemophilusinfluenzae type B vaccine, do not provide protection against the newcoronavirus, [according to the World HealthOrganization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters). The vaccines simply guardagainst those specific bacterial infections.The COVID-19 virus can, in fact, cause pneumonia, but the vaccines cannotprevent this pneumonia."
+  },
+  {
+    "_id": {
+      "$oid": "5f547141cf00b822784679d8"
+    },
+    "source": "USA Today",
+    "url": "https://www.usatoday.com/story/news/health/2020/03/12/coronavirus-reader-questions-answered-symptoms-testing-elderly/5012457002/",
+    "question": "How old was the youngest person to die from the virus?",
+    "answer": "A study of more than 72,000 cases in mainland China found that at least one person between ten and 19 years of age had died, but no one younger than ten had died. A subsequent study in the journal Pediatrics found that a 14-year-old boy from China died in February after contracting the coronavirus.\n\nIt was not immediately clear if anyone younger had died elsewhere in the world.\n\nBy comparison, at least 155 children in the U.S. have died after contracting the flu so far this flu season, according to the CDC.",
+    "wrong_answer": "If you have symptoms and want to get tested, the CDC recommends calling your state or local health department or a medical provider.\n\nNot sure if you should get tested? The CDC website features a \"self-checker\" to help you make decisions about seeking medical care. The feature is not intended for the diagnosis or treatment of COVID-19 and is intended only for people in the U.S."
+  }
+]
