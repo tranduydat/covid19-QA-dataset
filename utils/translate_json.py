@@ -3,9 +3,9 @@ import json
 import time
 
 translator = Translator(service_urls=[
-      'translate.google.com',
-      'translate.google.com.vn',
-    ])
+    'translate.google.com',
+    'translate.google.com.vn',
+])
 
 data = []
 count = 0
@@ -16,14 +16,14 @@ print('Size: %d' % (len(raw)))
 
 for rawLine in raw:
     data.append({
-        'question': (translator.translate(rawLine['question'], dest='vi')).text,
-        'answer': (translator.translate(rawLine['answer'], dest='vi')).text,
-        # 'wrong_answer': translator.translate(rawLine['wrong_answer'], dest='vi').text
+        'question': translator.translate(rawLine['question'], dest='vi').text,
+        'answer': translator.translate(rawLine['answer'], dest='vi').text,
+        'wrong_answer': translator.translate(rawLine['wrong_answer'], dest='vi').text
     })
     time.sleep(3)
     count += 1
     print('%d - Done' % (count))
-        # if (count == 10): # test
-        #     break
+    # if (count == 10): # test
+    #     break
 with open('3_stack3_en_213_translated_file.json', 'w', encoding='utf-8') as rs:
     json.dump(data, rs, ensure_ascii=False)
