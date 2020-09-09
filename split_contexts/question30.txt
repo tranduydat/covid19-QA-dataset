@@ -1,3 +1,0 @@
-Bệnh nhân có COVID-19 đã được xác nhận hoặc nghi ngờ có cần nhập viện không?
-Khi nào bệnh nhân có COVID-19 được xác nhận có thể được xuất viện?
-Nhân viên chăm sóc sức khỏe mang thai có tăng nguy cơ bị các kết quả bất lợi nếu họ chăm sóc bệnh nhân COVID-19 không?
