@@ -1,0 +1,1 @@
+Đối với người mới bắt đầu, tôi sẽ nói mô hình SIR là một nơi tuyệt vời để bắt đầu:..https://idmod.org/docs/general/model-sir.html..Numberphile đã làm một video tuyệt vời về việc sử dụng SIR để dự đoán Covid-19:..https://www.youtube.com/watch?v=k6nLfCbAzgo..Hy vọng rằng điều này có thể giúp bạn bắt đầu cuộc hành trình của mình!

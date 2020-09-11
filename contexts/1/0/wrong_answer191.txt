@@ -1,0 +1,1 @@
+Tôi vừa tìm kiếm GenBank chấp nhận trình tự nucleotide, tôi không thấy cDNA ở đâu và trong Wuhan Coronavirus, nó được đề cập / mol_type = "genom RNA"..tôi tò mò

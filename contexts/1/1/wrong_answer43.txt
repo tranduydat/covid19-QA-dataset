@@ -1,0 +1,1 @@
+Đầu tiên, có rất ít khả năng nó sẽ vẫn như cũ. Mật độ chắc chắn sẽ thay đổi theo nhiệt độ...Thứ hai, ngay cả khi có một cơ hội nhỏ là nó vẫn giữ nguyên, thì cũng có cơ hội lớn hơn là nó sẽ thay đổi...Vì vậy, chúng ta sẽ phải xem xét trường hợp chung và kết luận rằng nồng độ mol phụ thuộc vào nhiệt độ.

@@ -1,0 +1,1 @@
+SHAP (SHapley Additive Predictions) đưa ra một biểu đồ thanh là "giá trị tuyệt đối trung bình của các giá trị SHAP cho mỗi đối tượng địa lý" cho mục đích chính xác mà tôi nghĩ...Tác giả của SHAP mô tả cả SHAP và LIME là "phương pháp phân bổ tính năng bổ sung". Xem phần 2 tại đây.

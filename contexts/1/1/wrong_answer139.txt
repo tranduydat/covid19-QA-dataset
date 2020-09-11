@@ -1,0 +1,1 @@
+Đây là một bài báo làm chính xác những gì bạn muốn với giải thích chi tiết về kiến ​​trúc...Tôi không có nhiều cảm nhận về việc tôi làm TL; DR ở đây vì họ có một số nhãn dữ liệu đặc biệt, v.v ... nhưng ý chính của nó là LSTM nếu bạn thực hiện một số bước xử lý trước và nhận dữ liệu của bạn ở định dạng phù hợp.

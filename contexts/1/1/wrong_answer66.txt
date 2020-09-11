@@ -1,0 +1,1 @@
+It seems that you want to consider the interaction between class and group as your grouping factor for which you assume only random intercepts. Hence, you could try something along these lines:..lmer(y ~ 1 + (1 | class:group), data = &lt;your_data&gt;)..

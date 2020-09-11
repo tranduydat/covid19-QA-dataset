@@ -1,0 +1,1 @@
+Các sân bay thường sẽ có thông tin này. Ví dụ:.http://www.flydulles.com/iad/arrivals-and-departures.Nó có một lựa chọn để hiển thị các thành phố...Trên một ghi chú tương tự, có liên quan, một phần khác của trang web hiển thị mọi thành phố có kết nối trực tiếp..http://www.flydulles.com/iad/nonstop-destination

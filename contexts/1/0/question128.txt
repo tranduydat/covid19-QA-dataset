@@ -1,0 +1,1 @@
+Có bất kỳ cơ sở dữ liệu toàn cầu nào cho phép phân tích ngẫu nhiên các câu hỏi như phân bố tử vong theo độ tuổi, v.v. không?..Tìm kiếm của Google chỉ tạo ra cơ sở dữ liệu bài báo của WHO: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov..Cập nhật:...Kaggle.Trang tổng quan ArcGIS

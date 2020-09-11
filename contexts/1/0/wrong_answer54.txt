@@ -1,0 +1,1 @@
+Tôi nghĩ đó là Sơ đồ hợp âm. bạn có thể xem cái này để biết thêm thông tin....  "Sơ đồ hợp âm là một phương pháp đồ họa để hiển thị các mối quan hệ giữa các dữ liệu trong một ma trận. Dữ liệu được sắp xếp theo hướng xuyên tâm xung quanh một vòng tròn với các mối quan hệ giữa các điểm dữ liệu thường được vẽ dưới dạng cung kết nối dữ liệu." dựa trên Wikipedia
