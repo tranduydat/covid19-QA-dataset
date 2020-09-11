@@ -1,0 +1,1 @@
+Dữ liệu như vậy có thể được tìm thấy trên Quandl, ví dụ:..https://www.quandl.com/data/ISM/MAN_PMI-PMI-Composite-Index

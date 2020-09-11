@@ -1,0 +1,1 @@
+Câu hỏi này có vẻ lạc đề nhưng tôi thực sự tự hỏi làm thế nào những người CS có thể giúp đỡ trong những tình huống như coronavirus. Những vấn đề mới lạ nào phát sinh từ căn bệnh như vậy? Từ quan điểm CS và ML / AI, có điều gì mà các Nhà khoa học Máy tính có thể làm để chống lại coronavirus tốt hơn không?

@@ -1,0 +1,1 @@
+Đây là hình ảnh so sánh các Điểm R2 khác nhau:....Các chấm màu xanh lam là dữ liệu sự thật cơ bản. Mỗi dòng có một tiên đoán khác nhau. Như mong đợi, lưu ý rằng đường màu cam có điểm R2 rất gần bằng 1. Cũng lưu ý rằng màu đỏ rất phù hợp với tập dữ liệu và có điểm âm là -1,55. Trong trường hợp bạn đã quen với Python, hãy thoải mái sử dụng mã nguồn.

@@ -1,0 +1,1 @@
+Như bạn đã đề cập mục tiêu của họ khác nhau. Trong phân cụm, chúng tôi cố gắng nhóm dữ liệu sao cho chúng có cùng độ thay đổi. Ví dụ, nhóm khách hàng của một công ty thành các nhóm khác nhau, bằng cách nào đó, các thành viên của mỗi nhóm có cùng hành vi mua hàng của họ...Mặt khác, trong việc chặn, chúng tôi cố gắng giảm sự thay đổi, để ghi lại liên kết, như một ví dụ.

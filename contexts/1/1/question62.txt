@@ -1,0 +1,1 @@
+Tôi đã sử dụng Hàm mục tiêu ước tính khả năng xảy ra (Poisson) để ước tính và điều chỉnh đường cong với dữ liệu về các trường hợp bị nhiễm COVID-19 được báo cáo bằng cách sử dụng mô hình SEIR để ước tính hệ số của nó. Làm cách nào để tính khoảng tin cậy 95% cho các hệ số ước tính này?..Cảm ơn bạn

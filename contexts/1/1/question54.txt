@@ -1,0 +1,1 @@
+Tôi quan tâm đến việc tạo một công cụ web để dự đoán nguy cơ tuyệt đối của tử vong khi nhập viện từ mô hình rủi ro được công bố của bệnh nhân COVID-19...Có thể ước tính hệ số chặn từ các hệ số đáng kể, mô hình đa biến được công bố (Bảng 3 tại https://doi.org/10.1016/S0140-6736(20)30566-3)?

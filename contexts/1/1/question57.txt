@@ -1,0 +1,1 @@
+Tất cả chúng ta đã nghe nói nhiều về "làm phẳng đường cong". Tôi đã tự hỏi liệu những đường cong này - trông giống như những cái chuông - có thể đủ tiêu chuẩn là Gaussian mặc dù thực tế là có một chiều không gian.

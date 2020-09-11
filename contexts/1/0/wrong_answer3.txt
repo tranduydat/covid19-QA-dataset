@@ -1,0 +1,1 @@
+Dấu gạch ngang ("-") không đại diện cho một điện tích âm hoặc một điện tử. Nó chỉ đơn giản chỉ ra rằng nhóm nguyên tử (-OH hoặc -H) được gắn (liên kết cộng hóa trị) với các nguyên tử khác trong phân tử. Vì vậy, họ đang nói một đơn phân (phân tử) đóng góp OH vào phản ứng và H. còn lại (Điện tích được biểu thị bằng dấu trừ ở cuối.)

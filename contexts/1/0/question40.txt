@@ -1,0 +1,1 @@
+Tôi là một kỹ sư điện tử. Tôi đang suy nghĩ về cách phát hiện sự hiện diện của COVID-19:...Lấy mẫu..Hình ảnh / mẫu tăng dần, (Tôi cần kích thước thực để xác định mức tăng / độ phóng đại).Xử lý hình ảnh kỹ thuật số - phát hiện sự hiện diện bằng trí tuệ nhân tạo hoặc Nhận dạng....Kích thước gần đúng của COVID-19 là bao nhiêu? Có hình ảnh thật của COVID-19 không?
