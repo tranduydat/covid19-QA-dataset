@@ -1,0 +1,1 @@
+Khi tính toán mức độ gây chết người của một đợt bùng phát vi rút, tôi nhận thấy rằng hầu hết các nguồn sử dụng..CONFIRMED_DEATHS / CONFIRMED_INFECTIONS...Tuy nhiên, do chỉ có 2 kết quả có thể xảy ra; chết hoặc hồi phục, sẽ hợp lý hơn khi sử dụng:..CONFIRMED_DEATHS / (CONFIRMED_DEATHS + CONFIRMED_RECOVERIES)...Công thức nào có thể áp dụng cho những trường hợp nào?

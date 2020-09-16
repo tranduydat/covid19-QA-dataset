@@ -1,0 +1,1 @@
+Là một sinh viên năm nhất sinh học phân tử, tôi đã thực hiện một dự án trong lớp về câu hỏi này: cố gắng xem liệu nhiệt độ đệm có ảnh hưởng đến năng suất trong quá trình kết tủa DNA hay không. Điều này khác xa so với nghiên cứu được đánh giá ngang hàng, nhưng phát hiện của tôi là không có tác động đáng kể nào đối với một phạm vi nhiệt độ rộng.

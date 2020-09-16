@@ -1,0 +1,1 @@
+Enrichr có một bộ sưu tập khổng lồ (164 thư viện) về các mối quan hệ từ-gen ở định dạng máy có thể đọc được...X2K có thể thú vị hơn đối với bạn, vì nó thực hiện một phần phương pháp tiếp cận mạng. Nó cũng có một bộ sưu tập lớn các thư viện. Và hai yếu tố nữa - KEA3 (kinase tới gen) và ChEA3 (yếu tố phiên mã thành gen).
